@@ -12,12 +12,19 @@ import structlog
 
 
 def configure_logging(level: str = "INFO") -> None:
-    """Configure stdlib logging + structlog with a shared processor chain."""
+    """Configure stdlib logging + structlog with a shared processor chain.
+
+    The explicit ``setLevel`` matters: :func:`logging.basicConfig` is a no-op
+    once the root logger has handlers, so without it a second call (for example
+    lowering to DEBUG) would silently do nothing.
+    """
+    resolved = getattr(logging, level.upper(), logging.INFO)
     logging.basicConfig(
         format="%(levelname)s %(name)s %(message)s",
-        level=getattr(logging, level.upper(), logging.INFO),
+        level=resolved,
         stream=None,
     )
+    logging.getLogger().setLevel(resolved)
     structlog.configure(
         processors=[
             structlog.contextvars.merge_contextvars,

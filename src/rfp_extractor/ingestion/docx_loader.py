@@ -49,8 +49,11 @@ class DocxLoader(DocumentLoader):
             if len(rows) < 2:
                 continue
             for row in rows[1:]:
-                if len(row) >= 2 and row[0] and row[1]:
-                    label_values.setdefault(row[0], row[1])
+                # Keep rows whose *value* is empty too: a specification template
+                # lists its field names with blank values, and those names are
+                # exactly what we want to capture.
+                if len(row) >= 2 and row[0]:
+                    label_values.setdefault(row[0], row[1] if len(row) > 1 else "")
             text = "\n".join(" | ".join(r) for r in rows)
             blocks.append(
                 Block(

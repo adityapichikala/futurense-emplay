@@ -11,7 +11,7 @@ import re
 
 from rfp_extractor.intelligence.graph import DocumentGraph
 from rfp_extractor.models.schema import CANONICAL_FIELDS
-from rfp_extractor.validation.evaluation import evaluate
+from rfp_extractor.validation.evaluation import evaluate, load_gold_set
 
 
 def test_canonical_field_contract_is_complete():
@@ -220,6 +220,32 @@ def test_pricing_schedule_handles_grids_without_a_line_column(consolidated):
     items = " ".join(v["item"] for v in schedule.values()).lower()
     assert "latitude 5550" in items
     assert all(v["target_quantity"] == "30" for v in schedule.values())
+
+
+def test_evaluation_matches_gold_by_bid_number_not_folder_name(consolidated):
+    """Regression: a correct extraction used to score 0%.
+
+    Package ids are directory names, so a flat folder (which splits into
+    packages named after each solicitation) produced ids the gold set did not
+    know, and every correct answer was scored as missing.
+    """
+    from rfp_extractor.models.schema import ConsolidatedResult
+
+    renamed = ConsolidatedResult(
+        packages={pkg.bid_number.lower(): pkg for pkg in consolidated.packages.values()},
+        metadata=consolidated.metadata,
+    )
+    assert set(renamed.packages) == {"ja-207652", "bpm044557"}
+    report = evaluate(renamed)
+    assert {p.package for p in report.packages} == {"ja-207652", "bpm044557"}
+    assert report.accuracy == 1.0
+
+
+def test_gold_entries_declare_their_bid_number():
+    gold = load_gold_set()
+    for key, entry in gold.items():
+        assert entry.get("bid_number"), f"gold entry {key} must declare bid_number"
+        assert entry["expectations"], f"gold entry {key} has no expectations"
 
 
 def test_coverage_reasonable(consolidated):

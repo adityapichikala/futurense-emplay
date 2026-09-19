@@ -14,6 +14,7 @@
 
 bid1:
   name: "Dallas ISD - JA-207652 Student and Staff Computing Devices"
+  bid_number: "JA-207652"
   expectations:
     bid_number: {equals: "JA-207652"}
     title: {contains: "student and staff computing devices"}
@@ -38,6 +39,7 @@ bid1:
 
 bid2:
   name: "Maryland State Treasurer - BPM044557 Dell Laptops w/Extended Warranty"
+  bid_number: "BPM044557"
   expectations:
     bid_number: {equals: "BPM044557"}
     title: {contains: "dell laptops"}

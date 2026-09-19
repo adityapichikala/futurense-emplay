@@ -7,3 +7,7 @@ __pycache__/
 .env
 tmp_flat/
 .cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/

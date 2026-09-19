@@ -20,6 +20,9 @@ lint: ## Lint and auto-fix
 typecheck: ## Static type check
 	$(PYTHON) -m mypy $(SRC)
 
+cov: ## Test coverage report
+	$(PYTHON) -m pytest tests -q --cov=rfp_extractor --cov-report=term-missing
+
 check: lint typecheck test ## All quality gates
 
 verify: check ## Quality gates + a real pipeline run over data/raw

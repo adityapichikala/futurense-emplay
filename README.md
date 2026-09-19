@@ -32,6 +32,10 @@ data/raw/bid2/  ─┘        │             │               │            �
 
 ---
 
+For the reasoning behind the non-obvious decisions — precedence, instant-based date
+comparison, the ingestion cache, package splitting and the known appendix-placement
+limitation — see [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
+
 ## Quickstart
 
 ```bash

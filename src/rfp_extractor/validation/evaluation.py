@@ -8,6 +8,7 @@ regression is traceable to the rule that caused it.
 
 from __future__ import annotations
 
+import logging
 from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Any
@@ -16,6 +17,8 @@ import yaml
 
 from ..models.schema import CANONICAL_FIELDS, ConsolidatedResult, ExtractionResult
 from .normalizers import to_iso_instant
+
+log = logging.getLogger(__name__)
 
 # .../src/rfp_extractor/validation/evaluation.py -> parents[3] == repo root
 GOLD_SET_PATH = Path(__file__).resolve().parents[3] / "configs" / "gold_set.yaml"
@@ -98,9 +101,24 @@ def evaluate(
 ) -> EvaluationReport:
     gold = gold_set or load_gold_set()
     report = EvaluationReport()
+    unmatched: list[str] = []
+    by_number = {
+        str(entry.get("bid_number")): entry
+        for entry in gold.values()
+        if entry.get("bid_number")
+    }
+
     for package_id, package in result.packages.items():
         spec = gold.get(package_id)
+        if spec is None and package.bid_number:
+            # Package ids are directory names, so they change when the corpus is
+            # laid out differently (a flat folder splits into per-solicitation
+            # packages named after the bid).  Matching only on package id made a
+            # *correct* extraction report 0%, which is worse than no score at
+            # all - so fall back to the solicitation number.
+            spec = by_number.get(package.bid_number)
         if spec is None:
+            unmatched.append(package_id)
             continue
         score = PackageScore(package=package_id, name=spec.get("name", ""))
         expectations: dict[str, dict[str, Any]] = spec.get("expectations", {})
@@ -110,6 +128,13 @@ def evaluate(
                 continue
             score.scores.append(_score_field(package, field_name, expectation))
         report.packages.append(score)
+    if unmatched:
+        log.warning(
+            "no gold expectations for package(s) %s (known: %s) - "
+            "these are excluded from the accuracy figure",
+            ", ".join(unmatched),
+            ", ".join(gold),
+        )
     return report
 
 
