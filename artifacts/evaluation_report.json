@@ -1,0 +1,307 @@
+{
+  "overall_accuracy": 1.0,
+  "total_checks": 40,
+  "total_passed": 40,
+  "packages": [
+    {
+      "package": "bid1",
+      "name": "Dallas ISD - JA-207652 Student and Staff Computing Devices",
+      "accuracy": 1.0,
+      "passed": 20,
+      "total": 20,
+      "failed_fields": [],
+      "fields": [
+        {
+          "field": "bid_number",
+          "passed": true,
+          "check": "equals",
+          "expected": "JA-207652",
+          "actual": "JA-207652"
+        },
+        {
+          "field": "title",
+          "passed": true,
+          "check": "contains",
+          "expected": "student and staff computing devices",
+          "actual": "JA-207652 Student and Staff Computing Devices"
+        },
+        {
+          "field": "due_date",
+          "passed": true,
+          "check": "instant",
+          "expected": "2024-07-09T19:00:00+00:00",
+          "actual": "2024-07-09T14:00:00-05:00"
+        },
+        {
+          "field": "bid_submission_type",
+          "passed": true,
+          "check": "contains",
+          "expected": "electronic",
+          "actual": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed env..."
+        },
+        {
+          "field": "term_of_bid",
+          "passed": true,
+          "check": "contains",
+          "expected": "three (3) year",
+          "actual": "The term of this proposal shall be for a three (3) year agreement with two (2) successive ..."
+        },
+        {
+          "field": "pre_bid_meeting",
+          "passed": true,
+          "check": "instant",
+          "expected": "2024-06-10T19:00:00+00:00",
+          "actual": "2024-06-10T15:00:00-04:00"
+        },
+        {
+          "field": "installation",
+          "passed": true,
+          "check": "contains",
+          "expected": "software installation",
+          "actual": "services include (a) software installation, (b) asset tagging and etching, (c) device depl..."
+        },
+        {
+          "field": "bid_bond_requirement",
+          "passed": true,
+          "check": "contains",
+          "expected": "bid bond",
+          "actual": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this ..."
+        },
+        {
+          "field": "delivery_date",
+          "passed": true,
+          "check": "contains",
+          "expected": "september of 2024",
+          "actual": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors s..."
+        },
+        {
+          "field": "payment_terms",
+          "passed": true,
+          "check": "absent",
+          "expected": "absent",
+          "actual": "None"
+        },
+        {
+          "field": "additional_documentation_required",
+          "passed": true,
+          "check": "contains",
+          "expected": "1295",
+          "actual": "Please sign this addendum and submit along with your copies of the proposal.; FORM 1295 - ..."
+        },
+        {
+          "field": "mfg_for_registration",
+          "passed": true,
+          "check": "contains",
+          "expected": "isupplier",
+          "actual": "iSupplier portal https://www.dallasisd.org/domain/143"
+        },
+        {
+          "field": "contract_or_cooperative_to_use",
+          "passed": true,
+          "check": "absent",
+          "expected": "absent",
+          "actual": "None"
+        },
+        {
+          "field": "model_no",
+          "passed": true,
+          "check": "absent",
+          "expected": "absent",
+          "actual": "None"
+        },
+        {
+          "field": "part_no",
+          "passed": true,
+          "check": "absent",
+          "expected": "absent",
+          "actual": "None"
+        },
+        {
+          "field": "product",
+          "passed": true,
+          "check": "contains",
+          "expected": "student and staff computing devices",
+          "actual": "Student and Staff Computing Devices"
+        },
+        {
+          "field": "contact_info",
+          "passed": true,
+          "check": "contains",
+          "expected": "@dallasisd.org",
+          "actual": "ProcurementCS@dallasisd.org; Procurement Services; 972-925-3700; JALZATE@dallasisd.org; DG..."
+        },
+        {
+          "field": "company_name",
+          "passed": true,
+          "check": "absent",
+          "expected": "absent",
+          "actual": "None"
+        },
+        {
+          "field": "bid_summary",
+          "passed": true,
+          "check": "contains",
+          "expected": "request for proposal",
+          "actual": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be fo..."
+        },
+        {
+          "field": "product_specification",
+          "passed": true,
+          "check": "min_items",
+          "expected": ">= 5",
+          "actual": "10 items"
+        }
+      ]
+    },
+    {
+      "package": "bid2",
+      "name": "Maryland State Treasurer - BPM044557 Dell Laptops w/Extended Warranty",
+      "accuracy": 1.0,
+      "passed": 20,
+      "total": 20,
+      "failed_fields": [],
+      "fields": [
+        {
+          "field": "bid_number",
+          "passed": true,
+          "check": "equals",
+          "expected": "BPM044557",
+          "actual": "BPM044557"
+        },
+        {
+          "field": "title",
+          "passed": true,
+          "check": "contains",
+          "expected": "dell laptops",
+          "actual": "Dell Laptops w/Extended Warranty"
+        },
+        {
+          "field": "due_date",
+          "passed": true,
+          "check": "instant",
+          "expected": "2024-06-10T18:00:00+00:00",
+          "actual": "2024-06-10T14:00:00-04:00"
+        },
+        {
+          "field": "bid_submission_type",
+          "passed": true,
+          "check": "contains",
+          "expected": "emaryland",
+          "actual": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the St..."
+        },
+        {
+          "field": "term_of_bid",
+          "passed": true,
+          "check": "absent",
+          "expected": "absent",
+          "actual": "None"
+        },
+        {
+          "field": "pre_bid_meeting",
+          "passed": true,
+          "check": "absent",
+          "expected": "absent",
+          "actual": "None"
+        },
+        {
+          "field": "installation",
+          "passed": true,
+          "check": "absent",
+          "expected": "absent",
+          "actual": "None"
+        },
+        {
+          "field": "bid_bond_requirement",
+          "passed": true,
+          "check": "absent",
+          "expected": "absent",
+          "actual": "None"
+        },
+        {
+          "field": "delivery_date",
+          "passed": true,
+          "check": "contains",
+          "expected": "45 days",
+          "actual": "45 days of Award"
+        },
+        {
+          "field": "payment_terms",
+          "passed": true,
+          "check": "contains",
+          "expected": "invoice",
+          "actual": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include..."
+        },
+        {
+          "field": "additional_documentation_required",
+          "passed": true,
+          "check": "contains",
+          "expected": "mercury affidavit",
+          "actual": "Mercury Affidavit; Letter of Authorization; Contract Affidavit"
+        },
+        {
+          "field": "mfg_for_registration",
+          "passed": true,
+          "check": "contains",
+          "expected": "dell",
+          "actual": "authorized reseller for Dell"
+        },
+        {
+          "field": "contract_or_cooperative_to_use",
+          "passed": true,
+          "check": "contains",
+          "expected": "master contract",
+          "actual": "Hardware Master Contract"
+        },
+        {
+          "field": "model_no",
+          "passed": true,
+          "check": "contains",
+          "expected": "latitude 5550",
+          "actual": "<list len=2>"
+        },
+        {
+          "field": "part_no",
+          "passed": true,
+          "check": "min_items",
+          "expected": ">= 20",
+          "actual": "34 items"
+        },
+        {
+          "field": "product",
+          "passed": true,
+          "check": "contains",
+          "expected": "dell laptops",
+          "actual": "Dell Laptops w/Extended Warranty"
+        },
+        {
+          "field": "contact_info",
+          "passed": true,
+          "check": "contains",
+          "expected": "thawkins@treasurer.state.md.us",
+          "actual": "Thawkins@treasurer.state.md.us; Tamaira Hawkins; 410-260-7533; STOaccountspayable@treasure..."
+        },
+        {
+          "field": "company_name",
+          "passed": true,
+          "check": "contains",
+          "expected": "dell",
+          "actual": "Dell Marketing LP."
+        },
+        {
+          "field": "bid_summary",
+          "passed": true,
+          "check": "contains",
+          "expected": "laptops",
+          "actual": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft ..."
+        },
+        {
+          "field": "product_specification",
+          "passed": true,
+          "check": "min_items",
+          "expected": ">= 2",
+          "actual": "3 items"
+        }
+      ]
+    }
+  ]
+}

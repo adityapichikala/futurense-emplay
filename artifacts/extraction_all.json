@@ -1,0 +1,3399 @@
+{
+  "packages": {
+    "bid1": {
+      "bid_id": "bid1",
+      "bid_number": "JA-207652",
+      "title": "JA-207652 Student and Staff Computing Devices",
+      "due_date": "2024-07-09T14:00:00-05:00",
+      "bid_submission_type": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed envelope by the date and time stated.; No fax or email submissions will be accepted.",
+      "term_of_bid": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+      "pre_bid_meeting": "2024-06-10T15:00:00-04:00",
+      "installation": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+      "bid_bond_requirement": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+      "delivery_date": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+      "payment_terms": null,
+      "additional_documentation_required": "Please sign this addendum and submit along with your copies of the proposal.; FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; M/WBE Compliance Guidelines & Forms",
+      "mfg_for_registration": "iSupplier portal https://www.dallasisd.org/domain/143",
+      "contract_or_cooperative_to_use": null,
+      "model_no": null,
+      "part_no": null,
+      "product": "Student and Staff Computing Devices",
+      "contact_info": "ProcurementCS@dallasisd.org; Procurement Services; 972-925-3700; JALZATE@dallasisd.org; DGORACLEFDTEAM@DALLASISD.ORG; shewilli@dallasisd.org",
+      "company_name": null,
+      "bid_summary": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+      "product_specification": {
+        "Tier 1 Small Student Chromebook Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel Celeron Processor N100 or equivalent",
+          "Display": "Minimum 11.6\" diagonal",
+          "Integrated Camera": "720p minimum",
+          "requirement_5": "Screen Resolution 1366 x 768 Multi-touch",
+          "Memory": "Minimum 8GB DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+          "Storage": "64 GB eMMC",
+          "requirement_12": "Chrome O/S License Required",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 2 Large Student Chromebook Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel Celeron Processor N100 or equivalent",
+          "Display": "Minimum 14\" diagonal Non-Touch",
+          "Integrated Camera": "720p minimum",
+          "requirement_5": "Screen Resolution 1920-1080",
+          "Memory": "Minimum 8GB DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 Hours",
+          "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+          "Storage": "128 GB eMMC",
+          "requirement_12": "Chrome O/S License Required",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 3 Student Windows Laptop": {
+          "requirement_1": "Enterprise Management Ready w/ Autopilot Enrollment",
+          "requirement_2": "Intel i5 13th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal",
+          "Integrated Camera": "720p minimum",
+          "requirement_5": "Screen Resolution 1920-1080 Non-Touch",
+          "Memory": "Minimum 16GB RAM DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 Hours",
+          "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+          "Storage": "256 GB NVMe SSD",
+          "requirement_12": "Windows 11 Pro",
+          "Warranty": "3-year minimum"
+        },
+        "Student Tablet": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Processor A13",
+          "Display": "10.2\" Retina",
+          "Integrated Camera": "8MP Wide camera",
+          "requirement_5": "Screen Resolutions 2160 x 1620 Multi-touch",
+          "Wireless": "802.11AC and Bluetooth 4.2",
+          "requirement_7": "Power Supply included",
+          "Battery Life": "Minimum 10 Hours",
+          "Ports": "1 headphone or other personal audio connection",
+          "Storage": "64 GB",
+          "requirement_11": "iOS 17",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 1 Staff Windows Basic Desktop": {
+          "requirement_1": "Enterprise Management Ready with Autopilot Enrollment",
+          "Processor": "Intel i5 Processor, 14th Gen or equivalent",
+          "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+          "Memory": "Minimum 16GB RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Ports": "Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo",
+          "Storage": "512 GB NVMe SSD",
+          "requirement_8": "Windows 11 Pro",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 2 Staff Professional Desktop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel i7 Processor, 14th Gen or equivalent",
+          "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+          "Memory": "Minimum 32GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Ports": "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "1 TB NVMe SSD",
+          "requirement_8": "Windows 11 Pro or Mac O/S",
+          "requirement_9": "4 GB Video card",
+          "requirement_10": "Touchscreen optional",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 1 Staff Basic Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel i5 CPU, 14th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal screen",
+          "Integrated Camera": "1080p",
+          "Memory": "Minimum 16GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "USB Type C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "512 GB NVMe SSD",
+          "requirement_11": "0/S Windows 11 or Mac OS",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 2 Staff Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel i7 CPU, 14th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal screen",
+          "Integrated Camera": "1080p",
+          "Resolution": "1920 X 1080 minimum",
+          "Memory": "Minimum 32GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "USB C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "1 TB NVMe SSD",
+          "requirement_12": "0/S: Windows 11 or Mac OS",
+          "Warranty": "3-year minimum"
+        },
+        "Display Monitor - Touch": {
+          "requirement_1": "Minimum 24\" diagonal screen",
+          "Resolution": "1920 X 1080",
+          "Port": "USB 3.1 Hub",
+          "Aspect Ratio": "16:9",
+          "Contrast": "3000:1",
+          "Warranty": "3-year minimum"
+        },
+        "Display Monitor - Non-Touch": {
+          "requirement_1": "Minimum 24\" diagonal screen",
+          "Resolution": "1920 X 1080",
+          "Port": "USB 3.1 Hub",
+          "Warranty": "3-year minimum",
+          "requirement_5": ""
+        }
+      },
+      "pricing_schedule": {
+        "Line 1": {
+          "item": "Tier 1 Small Student Chromebook Laptop (Touch)",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 2": {
+          "item": "Tier 2 Large Student Chromebook Laptop (Non- Touch)",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 3": {
+          "item": "Tier 3 Student Windows Laptop",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 4": {
+          "item": "Student Tablet",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 5": {
+          "item": "Tier 1 Staff Basic Desktop",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 6": {
+          "item": "Tier 2 Staff Professional Desktop",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 7": {
+          "item": "Tier 1 Staff Laptop",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 8": {
+          "item": "Tier 2 Staff Laptop",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 9": {
+          "item": "Display Monitor - Touch",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 10": {
+          "item": "Display Monitor - Non-Touch",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 11": {
+          "item": "Additional Warranty - not included in the initial purchase of a device",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 12": {
+          "item": "Device Deployment - include all associated costs for asset decaling and reporting, etching, and delivery",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 13": {
+          "item": "Subscriptions/Services Required with the purchase of any device",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 14": {
+          "item": "Discount Percentage Off Catalog or List Price - provide your catalog/price list with your submission to ensure the District can verify pricing",
+          "target_quantity": "1",
+          "unit": "Each"
+        },
+        "Line 15.01": {
+          "item": "Tier 1 Small Student Chromebook Laptop (Touch)",
+          "target_quantity": "50,000",
+          "unit": "Each"
+        },
+        "Line 15.02": {
+          "item": "Tier 2 Large Student Chromebook Laptop (Non- Touch)",
+          "target_quantity": "50,000",
+          "unit": "Each"
+        },
+        "Line 16.01": {
+          "item": "Tier 3 Student Windows Laptop",
+          "target_quantity": "5,000",
+          "unit": "Each"
+        },
+        "Line 17.01": {
+          "item": "Student Tablet",
+          "target_quantity": "50,000",
+          "unit": "Each"
+        },
+        "Line 18.01": {
+          "item": "Tier 1 Staff Laptop",
+          "target_quantity": "10,000",
+          "unit": "Each"
+        },
+        "Line 18.02": {
+          "item": "Tier 2 Staff Laptop",
+          "target_quantity": "10,000",
+          "unit": "Each"
+        },
+        "Line 19.01": {
+          "item": "Tier 1 Staff Basic Desktop",
+          "target_quantity": "5,000",
+          "unit": "Each"
+        },
+        "Line 19.02": {
+          "item": "Tier 2 Staff Professional Desktop",
+          "target_quantity": "5,000",
+          "unit": "Each"
+        },
+        "Line 20.01": {
+          "item": "Display Monitor - Touch",
+          "target_quantity": "5,000",
+          "unit": "Each"
+        },
+        "Line 20.02": {
+          "item": "Display Monitor - Non-Touch",
+          "target_quantity": "5,000",
+          "unit": "Each"
+        }
+      },
+      "documents": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "file_format": "pdf",
+          "doc_type": "addendum",
+          "precedence": 120,
+          "page_count": 1,
+          "content_hash": "199a003f743b6cb07e710871bbdd2754cd9069380452d9293943ff2730a96e76",
+          "addendum_number": 2,
+          "doc_type_confidence": 1.0,
+          "amendment_notes": [
+            "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+            "The Purpose of this Addendum is to extend the due date of this RFP."
+          ]
+        },
+        {
+          "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "file_format": "pdf",
+          "doc_type": "addendum",
+          "precedence": 110,
+          "page_count": 5,
+          "content_hash": "8e8cae465a13b25e91d3368207e6db85da1fcab2642de641f96dc00d085f40be",
+          "addendum_number": 1,
+          "doc_type_confidence": 1.0,
+          "amendment_notes": [
+            "When DISD does have this type of damage, does Dallas choose to replace those units with new orders, new purchase order? Answer:Dallas ISD will not ask for Accidental Damage Protection for purchased devices.",
+            "Does Dallas ISD require a laser etch on the stand-alone monitors or AIO computers? If yes, what is the location and size of the etch? Answer:No, Dallas ISD will only require etching on Laptops.",
+            "Each option will be different and could be close to thirty options.",
+            "Can you please share the timeline DISD purchasing/M/WBE team will be reaching out to our references so we can remind them to be on the lookout during that timeline, reinforcing the urgency to respond to DISD request? Answer:References will be contacted within the week following the solicitation due date.",
+            "Is this stock solely for in-warranty OEM repairs or will the awarded vendor be responsible for out-of-warranty repairs with supported hot swaps? Answer:No, hot swap is only for when warranty work will be longer than 5 business days.",
+            "Are stated quantities one-time buys or spread over the first 3 years of the contract? Answer:The quantities will be spread over life of the contract.",
+            "Laptop Battery Life: How are they measuring battery life? Answer:This will be based on the manufacturer's specifications.",
+            "The Purpose of this Addendum is to provide responses to the vendors' questions related to this RFP."
+          ]
+        },
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "file_format": "html",
+          "doc_type": "portal_notice",
+          "precedence": 60,
+          "page_count": 1,
+          "content_hash": "66a23d7b83fdc69b0d8c10a07943d82fb64dace636c8c7e19c2777dd5e3230ae",
+          "addendum_number": null,
+          "doc_type_confidence": 1.0,
+          "amendment_notes": [
+            "Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices.",
+            "org Description: Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+            "Each submission must include a d See more Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors."
+          ]
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "file_format": "pdf",
+          "doc_type": "master_rfp",
+          "precedence": 40,
+          "page_count": 62,
+          "content_hash": "ed147247ab0f343479b99260dff877b029aa7e6ac5ff33304328d6365d949d97",
+          "addendum_number": null,
+          "doc_type_confidence": 1.0,
+          "amendment_notes": [
+            "The Joint Venture does not replace a prime contractor's responsibility to satisfy applicable M/WBE program requirements, including M/WBE goals.",
+            "Only written questions will be considered.",
+            "3 Requirements LENGTH OF CONTRACT The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+            "Responses to questions other than administrative questions will be provided to all potential offerors by means of an addendum to the solicitation.",
+            "0Page 2 of 40 LENGTH OF CONTRACT | The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+            "PURPOSE OF REQUEST FOR PROPOSAL (RFP) This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+            "Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices.",
+            "Processes and procedures are required in the response, which outlines how tracking will be executed and any processes for providing white glove services."
+          ]
+        }
+      ],
+      "fields": {
+        "bid_number": {
+          "field": "bid_number",
+          "value": "JA-207652",
+          "normalized": "JA-207652",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "block_id": "p1.b15",
+              "span": "RFP JA-207652 Student and Staff Computing Devices",
+              "confidence": 1.0,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 120,
+              "page": 1,
+              "raw": "JA-207652",
+              "normalized": "JA-207652",
+              "confidence": 1.0,
+              "span": "RFP JA-207652 Student and Staff Computing Devices",
+              "method": "regex",
+              "block_id": "p1.b15"
+            }
+          ],
+          "conflict": null
+        },
+        "title": {
+          "field": "title",
+          "value": "JA-207652 Student and Staff Computing Devices",
+          "normalized": "JA-207652 Student and Staff Computing Devices",
+          "confidence": 0.97,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "block_id": "p1.b15",
+              "span": "RFP JA-207652 Student and Staff Computing Devices",
+              "confidence": 0.97,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 120,
+              "page": 1,
+              "raw": "JA-207652 Student and Staff Computing Devices",
+              "normalized": "JA-207652 Student and Staff Computing Devices",
+              "confidence": 0.97,
+              "span": "RFP JA-207652 Student and Staff Computing Devices",
+              "method": "regex",
+              "block_id": "p1.b15"
+            }
+          ],
+          "conflict": {
+            "field": "title",
+            "winner": {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 120,
+              "page": 1,
+              "raw": "JA-207652 Student and Staff Computing Devices",
+              "normalized": "JA-207652 Student and Staff Computing Devices",
+              "confidence": 0.97,
+              "span": "RFP JA-207652 Student and Staff Computing Devices",
+              "method": "regex",
+              "block_id": "p1.b15"
+            },
+            "losers": [
+              {
+                "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+                "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+                "doc_type": "portal_notice",
+                "precedence": 60,
+                "page": 1,
+                "raw": "Student and Staff Computing Devices **SOURCING #168884**",
+                "normalized": "Student and Staff Computing Devices **SOURCING #168884**",
+                "confidence": 1.0,
+                "span": "Title: Student and Staff Computing Devices **SOURCING #168884**",
+                "method": "pdf_label",
+                "block_id": "p1.f7"
+              }
+            ],
+            "strategy": "precedence",
+            "rationale": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf (precedence 120, addendum) overrides Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice)."
+          }
+        },
+        "due_date": {
+          "field": "due_date",
+          "value": "July 9, 2024 at 2:00 PM CST",
+          "normalized": "2024-07-09T14:00:00-05:00",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "block_id": "p1.b2",
+              "span": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+              "confidence": 1.0,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 120,
+              "page": 1,
+              "raw": "July 9, 2024 at 2:00 PM CST",
+              "normalized": "2024-07-09T14:00:00-05:00",
+              "confidence": 1.0,
+              "span": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+              "method": "regex",
+              "block_id": "p1.b2"
+            }
+          ],
+          "conflict": {
+            "field": "due_date",
+            "winner": {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 120,
+              "page": 1,
+              "raw": "July 9, 2024 at 2:00 PM CST",
+              "normalized": "2024-07-09T14:00:00-05:00",
+              "confidence": 1.0,
+              "span": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+              "method": "regex",
+              "block_id": "p1.b2"
+            },
+            "losers": [
+              {
+                "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+                "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+                "doc_type": "master_rfp",
+                "precedence": 40,
+                "page": 2,
+                "raw": "27-JUN-2024 14:00:00",
+                "normalized": "2024-06-27T14:00:00-05:00",
+                "confidence": 0.95,
+                "span": "Solicitation Due27-JUN-2024 14:00:00",
+                "method": "regex",
+                "block_id": "p2.b10"
+              }
+            ],
+            "strategy": "precedence",
+            "rationale": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf (precedence 120, addendum) overrides JA-207652 Student and Staff Computing Devices FINAL.pdf (precedence 40, master_rfp)."
+          }
+        },
+        "bid_submission_type": {
+          "field": "bid_submission_type",
+          "value": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed envelope by the date and time stated.; No fax or email submissions will be accepted.",
+          "normalized": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed envelope by the date and time stated.; No fax or email submissions will be accepted.",
+          "confidence": 0.98,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 9,
+              "block_id": "p9.t1",
+              "span": "Dallas ISD prefers responses to be submitted online via our electronic system.",
+              "confidence": 0.92,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 9,
+              "block_id": "p9.t1",
+              "span": "sealed envelope by the date and time stated.",
+              "confidence": 0.87,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 9,
+              "block_id": "p9.t1",
+              "span": "No fax or email submissions will be accepted.",
+              "confidence": 0.82,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 9,
+              "raw": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed envelope by the date and time stated.; No fax or email submissions will be accepted.",
+              "normalized": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed envelope by the date and time stated.; No fax or email submissions will be accepted.",
+              "confidence": 0.92,
+              "span": "Dallas ISD prefers responses to be submitted online via our electronic system.",
+              "method": "section",
+              "block_id": "p9.t1"
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 9,
+              "raw": "sealed envelope by the date and time stated.",
+              "normalized": "sealed envelope by the date and time stated.",
+              "confidence": 0.87,
+              "span": "sealed envelope by the date and time stated.",
+              "method": "section",
+              "block_id": "p9.t1"
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 9,
+              "raw": "No fax or email submissions will be accepted.",
+              "normalized": "No fax or email submissions will be accepted.",
+              "confidence": 0.82,
+              "span": "No fax or email submissions will be accepted.",
+              "method": "section",
+              "block_id": "p9.t1"
+            }
+          ],
+          "conflict": null
+        },
+        "term_of_bid": {
+          "field": "term_of_bid",
+          "value": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+          "normalized": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 2,
+              "block_id": "p2.b31",
+              "span": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+              "confidence": 1.0,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 2,
+              "block_id": "p2.b25",
+              "span": "District, may be extended not to exceed a total of 5 years(s). If either party intends not to renew the Contract,",
+              "confidence": 0.83,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 2,
+              "block_id": "p2.b21",
+              "span": "Initial Term:3",
+              "confidence": 0.77,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 2,
+              "block_id": "p2.b22",
+              "span": "1",
+              "confidence": 0.5,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+              "normalized": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+              "confidence": 1.0,
+              "span": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+              "method": "section",
+              "block_id": "p2.b31"
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "5 years(s)",
+              "normalized": "5 years(s)",
+              "confidence": 0.83,
+              "span": "District, may be extended not to exceed a total of 5 years(s). If either party intends not to renew the Contract,",
+              "method": "regex",
+              "block_id": "p2.b25"
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "3",
+              "normalized": "3",
+              "confidence": 0.77,
+              "span": "Initial Term:3",
+              "method": "pdf_label",
+              "block_id": "p2.b21"
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "1",
+              "normalized": "1",
+              "confidence": 0.5,
+              "span": "1",
+              "method": "section",
+              "block_id": "p2.b22"
+            }
+          ],
+          "conflict": null
+        },
+        "pre_bid_meeting": {
+          "field": "pre_bid_meeting",
+          "value": "06/10/2024 03:00 PM EDT",
+          "normalized": "2024-06-10T15:00:00-04:00",
+          "confidence": 0.97,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f16",
+              "span": "Prebid Conference: 06/10/2024 03:00 PM EDT",
+              "confidence": 0.97,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "06/10/2024 03:00 PM EDT",
+              "normalized": "2024-06-10T15:00:00-04:00",
+              "confidence": 0.97,
+              "span": "Prebid Conference: 06/10/2024 03:00 PM EDT",
+              "method": "pdf_label",
+              "block_id": "p1.f16"
+            }
+          ],
+          "conflict": null
+        },
+        "installation": {
+          "field": "installation",
+          "value": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+          "normalized": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+          "confidence": 0.98,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 7,
+              "block_id": "p7.b11",
+              "span": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+              "confidence": 0.95,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+              "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 4,
+              "block_id": "p4.b20",
+              "span": "For Windows devices, autopilot is required.",
+              "confidence": 0.86,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 7,
+              "raw": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+              "normalized": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+              "confidence": 0.95,
+              "span": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+              "method": "section",
+              "block_id": "p7.b11"
+            },
+            {
+              "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+              "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 110,
+              "page": 4,
+              "raw": "For Windows devices, autopilot is required.",
+              "normalized": "For Windows devices, autopilot is required.",
+              "confidence": 0.86,
+              "span": "For Windows devices, autopilot is required.",
+              "method": "section",
+              "block_id": "p4.b20"
+            }
+          ],
+          "conflict": null
+        },
+        "bid_bond_requirement": {
+          "field": "bid_bond_requirement",
+          "value": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+          "normalized": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+          "confidence": 0.87,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 9,
+              "block_id": "p9.t1",
+              "span": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+              "confidence": 0.87,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 9,
+              "raw": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+              "normalized": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+              "confidence": 0.87,
+              "span": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+              "method": "section",
+              "block_id": "p9.t1"
+            }
+          ],
+          "conflict": null
+        },
+        "delivery_date": {
+          "field": "delivery_date",
+          "value": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+          "normalized": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+          "confidence": 0.845,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+              "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "block_id": "p1.b10",
+              "span": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+              "confidence": 0.845,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+              "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 110,
+              "page": 1,
+              "raw": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+              "normalized": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+              "confidence": 0.845,
+              "span": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+              "method": "section",
+              "block_id": "p1.b10"
+            }
+          ],
+          "conflict": null
+        },
+        "payment_terms": {
+          "field": "payment_terms",
+          "value": null,
+          "normalized": null,
+          "confidence": 0.0,
+          "present": false,
+          "null_reason": "Not stated in source documents",
+          "evidence": [],
+          "candidates": [],
+          "conflict": null
+        },
+        "additional_documentation_required": {
+          "field": "additional_documentation_required",
+          "value": "Please sign this addendum and submit along with your copies of the proposal.; FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; M/WBE Compliance Guidelines & Forms",
+          "normalized": "Please sign this addendum and submit along with your copies of the proposal.; FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; M/WBE Compliance Guidelines & Forms",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "block_id": "p1.b5",
+              "span": "Please sign this addendum and submit along with your copies of the proposal.",
+              "confidence": 0.94,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+              "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 4,
+              "block_id": "p4.b1",
+              "span": "31.FORM 1295 - CERTIFICATE OF INTERESTED PARTIES: The RFP states that \"This form must then be",
+              "confidence": 0.94,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 49,
+              "block_id": "p49.b9",
+              "span": "M/WBE Forms. Submit the completed, signed, and dated M/WBE Compliance Guidelines & Forms by the due date.",
+              "confidence": 0.85,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 120,
+              "page": 1,
+              "raw": "Please sign this addendum and submit along with your copies of the proposal.; FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; M/WBE Compliance Guidelines & Forms",
+              "normalized": "Please sign this addendum and submit along with your copies of the proposal.; FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; M/WBE Compliance Guidelines & Forms",
+              "confidence": 0.94,
+              "span": "Please sign this addendum and submit along with your copies of the proposal.",
+              "method": "section",
+              "block_id": "p1.b5"
+            },
+            {
+              "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+              "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 110,
+              "page": 4,
+              "raw": "FORM 1295 - CERTIFICATE OF INTERESTED PARTIES",
+              "normalized": "FORM 1295 - CERTIFICATE OF INTERESTED PARTIES",
+              "confidence": 0.94,
+              "span": "31.FORM 1295 - CERTIFICATE OF INTERESTED PARTIES: The RFP states that \"This form must then be",
+              "method": "regex",
+              "block_id": "p4.b1"
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 49,
+              "raw": "M/WBE Compliance Guidelines & Forms",
+              "normalized": "M/WBE Compliance Guidelines & Forms",
+              "confidence": 0.85,
+              "span": "M/WBE Forms. Submit the completed, signed, and dated M/WBE Compliance Guidelines & Forms by the due date.",
+              "method": "regex",
+              "block_id": "p49.b9"
+            }
+          ],
+          "conflict": null
+        },
+        "mfg_for_registration": {
+          "field": "mfg_for_registration",
+          "value": "iSupplier portal https://www.dallasisd.org/domain/143",
+          "normalized": "iSupplier portal https://www.dallasisd.org/domain/143",
+          "confidence": 0.921,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 9,
+              "block_id": "p9.t1",
+              "span": "... ISD prefers responses to be submitted online via our electronic system. Please register with the iSupplier portal https://www.dallasisd.org/domain/143 This process takes up to a week, Dallas ISD asks the vendor to please register ...",
+              "confidence": 0.921,
+              "method": "table",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 9,
+              "raw": "iSupplier portal https://www.dallasisd.org/domain/143",
+              "normalized": "iSupplier portal https://www.dallasisd.org/domain/143",
+              "confidence": 0.921,
+              "span": "... ISD prefers responses to be submitted online via our electronic system. Please register with the iSupplier portal https://www.dallasisd.org/domain/143 This process takes up to a week, Dallas ISD asks the vendor to please register ...",
+              "method": "table",
+              "block_id": "p9.t1"
+            }
+          ],
+          "conflict": null
+        },
+        "contract_or_cooperative_to_use": {
+          "field": "contract_or_cooperative_to_use",
+          "value": null,
+          "normalized": null,
+          "confidence": 0.0,
+          "present": false,
+          "null_reason": "Not stated in source documents",
+          "evidence": [],
+          "candidates": [],
+          "conflict": null
+        },
+        "model_no": {
+          "field": "model_no",
+          "value": null,
+          "normalized": null,
+          "confidence": 0.0,
+          "present": false,
+          "null_reason": "Not stated in source documents",
+          "evidence": [],
+          "candidates": [],
+          "conflict": null
+        },
+        "part_no": {
+          "field": "part_no",
+          "value": null,
+          "normalized": null,
+          "confidence": 0.0,
+          "present": false,
+          "null_reason": "Not stated in source documents",
+          "evidence": [],
+          "candidates": [],
+          "conflict": null
+        },
+        "product": {
+          "field": "product",
+          "value": "Student and Staff Computing Devices",
+          "normalized": "Student and Staff Computing Devices",
+          "confidence": 0.97,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "page": 1,
+              "block_id": "p1.b15",
+              "span": "RFP JA-207652 Student and Staff Computing Devices",
+              "confidence": 0.97,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 120,
+              "page": 1,
+              "raw": "Student and Staff Computing Devices",
+              "normalized": "Student and Staff Computing Devices",
+              "confidence": 0.97,
+              "span": "RFP JA-207652 Student and Staff Computing Devices",
+              "method": "regex",
+              "block_id": "p1.b15"
+            }
+          ],
+          "conflict": {
+            "field": "product",
+            "winner": {
+              "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+              "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+              "doc_type": "addendum",
+              "precedence": 120,
+              "page": 1,
+              "raw": "Student and Staff Computing Devices",
+              "normalized": "Student and Staff Computing Devices",
+              "confidence": 0.97,
+              "span": "RFP JA-207652 Student and Staff Computing Devices",
+              "method": "regex",
+              "block_id": "p1.b15"
+            },
+            "losers": [
+              {
+                "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+                "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+                "doc_type": "portal_notice",
+                "precedence": 60,
+                "page": 1,
+                "raw": "laptops, desktops, tablet devices, and display monitors",
+                "normalized": "laptops, desktops, tablet devices, and display monitors",
+                "confidence": 0.78,
+                "span": "...his Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals ...",
+                "method": "regex",
+                "block_id": "p1.meta0"
+              }
+            ],
+            "strategy": "precedence",
+            "rationale": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf (precedence 120, addendum) overrides Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice)."
+          }
+        },
+        "contact_info": {
+          "field": "contact_info",
+          "value": "ProcurementCS@dallasisd.org; Procurement Services; 972-925-3700; JALZATE@dallasisd.org; DGORACLEFDTEAM@DALLASISD.ORG; shewilli@dallasisd.org",
+          "normalized": "ProcurementCS@dallasisd.org; Procurement Services; 972-925-3700; JALZATE@dallasisd.org; DGORACLEFDTEAM@DALLASISD.ORG; shewilli@dallasisd.org",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f21",
+              "span": "Contact Information: ProcurementCS@dallasisd.org",
+              "confidence": 0.95,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f19",
+              "span": "Contact Information: Procurement Services",
+              "confidence": 0.92,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f20",
+              "span": "Contact Information: 972-925-3700",
+              "confidence": 0.92,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f21",
+              "span": "Contact Information: ProcurementCS@dallasisd.org",
+              "confidence": 0.92,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "ProcurementCS@dallasisd.org; Procurement Services; 972-925-3700; JALZATE@dallasisd.org; DGORACLEFDTEAM@DALLASISD.ORG; shewilli@dallasisd.org",
+              "normalized": "ProcurementCS@dallasisd.org; Procurement Services; 972-925-3700; JALZATE@dallasisd.org; DGORACLEFDTEAM@DALLASISD.ORG; shewilli@dallasisd.org",
+              "confidence": 0.95,
+              "span": "Contact Information: ProcurementCS@dallasisd.org",
+              "method": "regex",
+              "block_id": "p1.f21"
+            },
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Procurement Services",
+              "normalized": "Procurement Services",
+              "confidence": 0.92,
+              "span": "Contact Information: Procurement Services",
+              "method": "pdf_label",
+              "block_id": "p1.f19"
+            },
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "972-925-3700",
+              "normalized": "972-925-3700",
+              "confidence": 0.92,
+              "span": "Contact Information: 972-925-3700",
+              "method": "pdf_label",
+              "block_id": "p1.f20"
+            },
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "ProcurementCS@dallasisd.org",
+              "normalized": "ProcurementCS@dallasisd.org",
+              "confidence": 0.92,
+              "span": "Contact Information: ProcurementCS@dallasisd.org",
+              "method": "pdf_label",
+              "block_id": "p1.f21"
+            }
+          ],
+          "conflict": null
+        },
+        "company_name": {
+          "field": "company_name",
+          "value": null,
+          "normalized": null,
+          "confidence": 0.0,
+          "present": false,
+          "null_reason": "Not stated in source documents",
+          "evidence": [],
+          "candidates": [],
+          "conflict": null
+        },
+        "bid_summary": {
+          "field": "bid_summary",
+          "value": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+          "normalized": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+          "confidence": 0.95,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f22",
+              "span": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+              "confidence": 0.95,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+              "normalized": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+              "confidence": 0.95,
+              "span": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+              "method": "section",
+              "block_id": "p1.f22"
+            }
+          ],
+          "conflict": {
+            "field": "bid_summary",
+            "winner": {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+              "normalized": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+              "confidence": 0.95,
+              "span": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+              "method": "section",
+              "block_id": "p1.f22"
+            },
+            "losers": [
+              {
+                "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+                "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+                "doc_type": "portal_notice",
+                "precedence": 60,
+                "page": 1,
+                "raw": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices. Each submission must include a d See more",
+                "normalized": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices. Each submission must include a d",
+                "confidence": 0.92,
+                "span": "Description: Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the Dist",
+                "method": "pdf_label",
+                "block_id": "p1.f22"
+              },
+              {
+                "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+                "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+                "doc_type": "master_rfp",
+                "precedence": 40,
+                "page": 2,
+                "raw": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+                "normalized": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+                "confidence": 0.855,
+                "span": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+                "method": "section",
+                "block_id": "p2.t1"
+              }
+            ],
+            "strategy": "precedence",
+            "rationale": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice) overrides Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice)."
+          }
+        },
+        "product_specification": {
+          "field": "product_specification",
+          "value": "10 device/line-item specifications",
+          "normalized": {
+            "Tier 1 Small Student Chromebook Laptop": {
+              "requirement_1": "Enterprise Management Ready",
+              "requirement_2": "Intel Celeron Processor N100 or equivalent",
+              "Display": "Minimum 11.6\" diagonal",
+              "Integrated Camera": "720p minimum",
+              "requirement_5": "Screen Resolution 1366 x 768 Multi-touch",
+              "Memory": "Minimum 8GB DDR5 Memory",
+              "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+              "Power Supply": "Type C, 65W",
+              "Battery Life": "Minimum 10 hours",
+              "Ports": "Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+              "Storage": "64 GB eMMC",
+              "requirement_12": "Chrome O/S License Required",
+              "Warranty": "1-year minimum"
+            },
+            "Tier 2 Large Student Chromebook Laptop": {
+              "requirement_1": "Enterprise Management Ready",
+              "requirement_2": "Intel Celeron Processor N100 or equivalent",
+              "Display": "Minimum 14\" diagonal Non-Touch",
+              "Integrated Camera": "720p minimum",
+              "requirement_5": "Screen Resolution 1920-1080",
+              "Memory": "Minimum 8GB DDR5 Memory",
+              "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+              "Power Supply": "Type C, 65W",
+              "Battery Life": "Minimum 10 Hours",
+              "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+              "Storage": "128 GB eMMC",
+              "requirement_12": "Chrome O/S License Required",
+              "Warranty": "1-year minimum"
+            },
+            "Tier 3 Student Windows Laptop": {
+              "requirement_1": "Enterprise Management Ready w/ Autopilot Enrollment",
+              "requirement_2": "Intel i5 13th Gen or equivalent",
+              "Display": "Minimum 13\" diagonal",
+              "Integrated Camera": "720p minimum",
+              "requirement_5": "Screen Resolution 1920-1080 Non-Touch",
+              "Memory": "Minimum 16GB RAM DDR5 Memory",
+              "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+              "Power Supply": "Type C, 65W",
+              "Battery Life": "Minimum 10 Hours",
+              "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+              "Storage": "256 GB NVMe SSD",
+              "requirement_12": "Windows 11 Pro",
+              "Warranty": "3-year minimum"
+            },
+            "Student Tablet": {
+              "requirement_1": "Enterprise Management Ready",
+              "requirement_2": "Processor A13",
+              "Display": "10.2\" Retina",
+              "Integrated Camera": "8MP Wide camera",
+              "requirement_5": "Screen Resolutions 2160 x 1620 Multi-touch",
+              "Wireless": "802.11AC and Bluetooth 4.2",
+              "requirement_7": "Power Supply included",
+              "Battery Life": "Minimum 10 Hours",
+              "Ports": "1 headphone or other personal audio connection",
+              "Storage": "64 GB",
+              "requirement_11": "iOS 17",
+              "Warranty": "1-year minimum"
+            },
+            "Tier 1 Staff Windows Basic Desktop": {
+              "requirement_1": "Enterprise Management Ready with Autopilot Enrollment",
+              "Processor": "Intel i5 Processor, 14th Gen or equivalent",
+              "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+              "Memory": "Minimum 16GB RAM",
+              "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+              "Ports": "Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo",
+              "Storage": "512 GB NVMe SSD",
+              "requirement_8": "Windows 11 Pro",
+              "Warranty": "3-year minimum"
+            },
+            "Tier 2 Staff Professional Desktop": {
+              "requirement_1": "Enterprise Management Ready",
+              "requirement_2": "Intel i7 Processor, 14th Gen or equivalent",
+              "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+              "Memory": "Minimum 32GB DDR5 RAM",
+              "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+              "Ports": "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+              "Storage": "1 TB NVMe SSD",
+              "requirement_8": "Windows 11 Pro or Mac O/S",
+              "requirement_9": "4 GB Video card",
+              "requirement_10": "Touchscreen optional",
+              "Warranty": "3-year minimum"
+            },
+            "Tier 1 Staff Basic Laptop": {
+              "requirement_1": "Enterprise Management Ready",
+              "requirement_2": "Intel i5 CPU, 14th Gen or equivalent",
+              "Display": "Minimum 13\" diagonal screen",
+              "Integrated Camera": "1080p",
+              "Memory": "Minimum 16GB DDR5 RAM",
+              "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+              "Power Supply": "USB Type C, 65W",
+              "Battery Life": "Minimum 10 hours",
+              "Ports": "Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+              "Storage": "512 GB NVMe SSD",
+              "requirement_11": "0/S Windows 11 or Mac OS",
+              "Warranty": "3-year minimum"
+            },
+            "Tier 2 Staff Laptop": {
+              "requirement_1": "Enterprise Management Ready",
+              "requirement_2": "Intel i7 CPU, 14th Gen or equivalent",
+              "Display": "Minimum 13\" diagonal screen",
+              "Integrated Camera": "1080p",
+              "Resolution": "1920 X 1080 minimum",
+              "Memory": "Minimum 32GB DDR5 RAM",
+              "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+              "Power Supply": "USB C, 65W",
+              "Battery Life": "Minimum 10 hours",
+              "Ports": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+              "Storage": "1 TB NVMe SSD",
+              "requirement_12": "0/S: Windows 11 or Mac OS",
+              "Warranty": "3-year minimum"
+            },
+            "Display Monitor - Touch": {
+              "requirement_1": "Minimum 24\" diagonal screen",
+              "Resolution": "1920 X 1080",
+              "Port": "USB 3.1 Hub",
+              "Aspect Ratio": "16:9",
+              "Contrast": "3000:1",
+              "Warranty": "3-year minimum"
+            },
+            "Display Monitor - Non-Touch": {
+              "requirement_1": "Minimum 24\" diagonal screen",
+              "Resolution": "1920 X 1080",
+              "Port": "USB 3.1 Hub",
+              "Warranty": "3-year minimum",
+              "requirement_5": ""
+            }
+          },
+          "confidence": 0.85,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "page": 1,
+              "block_id": null,
+              "span": "Tier 1 Small Student Chromebook Laptop; Tier 2 Large Student Chromebook Laptop; Tier 3 Student Windows Laptop; Student Tablet; Tier 1 Staff Windows Basic Desktop; Tier 2 Staff Professional Desktop",
+              "confidence": 0.85,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 1,
+              "raw": "10 device/line-item specifications",
+              "normalized": {
+                "Tier 1 Small Student Chromebook Laptop": {
+                  "requirement_1": "Enterprise Management Ready",
+                  "requirement_2": "Intel Celeron Processor N100 or equivalent",
+                  "Display": "Minimum 11.6\" diagonal",
+                  "Integrated Camera": "720p minimum",
+                  "requirement_5": "Screen Resolution 1366 x 768 Multi-touch",
+                  "Memory": "Minimum 8GB DDR5 Memory",
+                  "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+                  "Power Supply": "Type C, 65W",
+                  "Battery Life": "Minimum 10 hours",
+                  "Ports": "Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+                  "Storage": "64 GB eMMC",
+                  "requirement_12": "Chrome O/S License Required",
+                  "Warranty": "1-year minimum"
+                },
+                "Tier 2 Large Student Chromebook Laptop": {
+                  "requirement_1": "Enterprise Management Ready",
+                  "requirement_2": "Intel Celeron Processor N100 or equivalent",
+                  "Display": "Minimum 14\" diagonal Non-Touch",
+                  "Integrated Camera": "720p minimum",
+                  "requirement_5": "Screen Resolution 1920-1080",
+                  "Memory": "Minimum 8GB DDR5 Memory",
+                  "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+                  "Power Supply": "Type C, 65W",
+                  "Battery Life": "Minimum 10 Hours",
+                  "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+                  "Storage": "128 GB eMMC",
+                  "requirement_12": "Chrome O/S License Required",
+                  "Warranty": "1-year minimum"
+                },
+                "Tier 3 Student Windows Laptop": {
+                  "requirement_1": "Enterprise Management Ready w/ Autopilot Enrollment",
+                  "requirement_2": "Intel i5 13th Gen or equivalent",
+                  "Display": "Minimum 13\" diagonal",
+                  "Integrated Camera": "720p minimum",
+                  "requirement_5": "Screen Resolution 1920-1080 Non-Touch",
+                  "Memory": "Minimum 16GB RAM DDR5 Memory",
+                  "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+                  "Power Supply": "Type C, 65W",
+                  "Battery Life": "Minimum 10 Hours",
+                  "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+                  "Storage": "256 GB NVMe SSD",
+                  "requirement_12": "Windows 11 Pro",
+                  "Warranty": "3-year minimum"
+                },
+                "Student Tablet": {
+                  "requirement_1": "Enterprise Management Ready",
+                  "requirement_2": "Processor A13",
+                  "Display": "10.2\" Retina",
+                  "Integrated Camera": "8MP Wide camera",
+                  "requirement_5": "Screen Resolutions 2160 x 1620 Multi-touch",
+                  "Wireless": "802.11AC and Bluetooth 4.2",
+                  "requirement_7": "Power Supply included",
+                  "Battery Life": "Minimum 10 Hours",
+                  "Ports": "1 headphone or other personal audio connection",
+                  "Storage": "64 GB",
+                  "requirement_11": "iOS 17",
+                  "Warranty": "1-year minimum"
+                },
+                "Tier 1 Staff Windows Basic Desktop": {
+                  "requirement_1": "Enterprise Management Ready with Autopilot Enrollment",
+                  "Processor": "Intel i5 Processor, 14th Gen or equivalent",
+                  "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+                  "Memory": "Minimum 16GB RAM",
+                  "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+                  "Ports": "Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo",
+                  "Storage": "512 GB NVMe SSD",
+                  "requirement_8": "Windows 11 Pro",
+                  "Warranty": "3-year minimum"
+                },
+                "Tier 2 Staff Professional Desktop": {
+                  "requirement_1": "Enterprise Management Ready",
+                  "requirement_2": "Intel i7 Processor, 14th Gen or equivalent",
+                  "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+                  "Memory": "Minimum 32GB DDR5 RAM",
+                  "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+                  "Ports": "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+                  "Storage": "1 TB NVMe SSD",
+                  "requirement_8": "Windows 11 Pro or Mac O/S",
+                  "requirement_9": "4 GB Video card",
+                  "requirement_10": "Touchscreen optional",
+                  "Warranty": "3-year minimum"
+                },
+                "Tier 1 Staff Basic Laptop": {
+                  "requirement_1": "Enterprise Management Ready",
+                  "requirement_2": "Intel i5 CPU, 14th Gen or equivalent",
+                  "Display": "Minimum 13\" diagonal screen",
+                  "Integrated Camera": "1080p",
+                  "Memory": "Minimum 16GB DDR5 RAM",
+                  "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+                  "Power Supply": "USB Type C, 65W",
+                  "Battery Life": "Minimum 10 hours",
+                  "Ports": "Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+                  "Storage": "512 GB NVMe SSD",
+                  "requirement_11": "0/S Windows 11 or Mac OS",
+                  "Warranty": "3-year minimum"
+                },
+                "Tier 2 Staff Laptop": {
+                  "requirement_1": "Enterprise Management Ready",
+                  "requirement_2": "Intel i7 CPU, 14th Gen or equivalent",
+                  "Display": "Minimum 13\" diagonal screen",
+                  "Integrated Camera": "1080p",
+                  "Resolution": "1920 X 1080 minimum",
+                  "Memory": "Minimum 32GB DDR5 RAM",
+                  "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+                  "Power Supply": "USB C, 65W",
+                  "Battery Life": "Minimum 10 hours",
+                  "Ports": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+                  "Storage": "1 TB NVMe SSD",
+                  "requirement_12": "0/S: Windows 11 or Mac OS",
+                  "Warranty": "3-year minimum"
+                },
+                "Display Monitor - Touch": {
+                  "requirement_1": "Minimum 24\" diagonal screen",
+                  "Resolution": "1920 X 1080",
+                  "Port": "USB 3.1 Hub",
+                  "Aspect Ratio": "16:9",
+                  "Contrast": "3000:1",
+                  "Warranty": "3-year minimum"
+                },
+                "Display Monitor - Non-Touch": {
+                  "requirement_1": "Minimum 24\" diagonal screen",
+                  "Resolution": "1920 X 1080",
+                  "Port": "USB 3.1 Hub",
+                  "Warranty": "3-year minimum",
+                  "requirement_5": ""
+                }
+              },
+              "confidence": 0.85,
+              "span": "Tier 1 Small Student Chromebook Laptop; Tier 2 Large Student Chromebook Laptop; Tier 3 Student Windows Laptop; Student Tablet; Tier 1 Staff Windows Basic Desktop; Tier 2 Staff Professional Desktop",
+              "method": "section",
+              "block_id": null
+            }
+          ],
+          "conflict": null
+        }
+      },
+      "conflicts_resolved": [
+        {
+          "field": "title",
+          "winner": {
+            "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+            "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+            "doc_type": "addendum",
+            "precedence": 120,
+            "page": 1,
+            "raw": "JA-207652 Student and Staff Computing Devices",
+            "normalized": "JA-207652 Student and Staff Computing Devices",
+            "confidence": 0.97,
+            "span": "RFP JA-207652 Student and Staff Computing Devices",
+            "method": "regex",
+            "block_id": "p1.b15"
+          },
+          "losers": [
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Student and Staff Computing Devices **SOURCING #168884**",
+              "normalized": "Student and Staff Computing Devices **SOURCING #168884**",
+              "confidence": 1.0,
+              "span": "Title: Student and Staff Computing Devices **SOURCING #168884**",
+              "method": "pdf_label",
+              "block_id": "p1.f7"
+            }
+          ],
+          "strategy": "precedence",
+          "rationale": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf (precedence 120, addendum) overrides Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice)."
+        },
+        {
+          "field": "due_date",
+          "winner": {
+            "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+            "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+            "doc_type": "addendum",
+            "precedence": 120,
+            "page": 1,
+            "raw": "July 9, 2024 at 2:00 PM CST",
+            "normalized": "2024-07-09T14:00:00-05:00",
+            "confidence": 1.0,
+            "span": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+            "method": "regex",
+            "block_id": "p1.b2"
+          },
+          "losers": [
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "27-JUN-2024 14:00:00",
+              "normalized": "2024-06-27T14:00:00-05:00",
+              "confidence": 0.95,
+              "span": "Solicitation Due27-JUN-2024 14:00:00",
+              "method": "regex",
+              "block_id": "p2.b10"
+            }
+          ],
+          "strategy": "precedence",
+          "rationale": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf (precedence 120, addendum) overrides JA-207652 Student and Staff Computing Devices FINAL.pdf (precedence 40, master_rfp)."
+        },
+        {
+          "field": "product",
+          "winner": {
+            "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+            "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+            "doc_type": "addendum",
+            "precedence": 120,
+            "page": 1,
+            "raw": "Student and Staff Computing Devices",
+            "normalized": "Student and Staff Computing Devices",
+            "confidence": 0.97,
+            "span": "RFP JA-207652 Student and Staff Computing Devices",
+            "method": "regex",
+            "block_id": "p1.b15"
+          },
+          "losers": [
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "laptops, desktops, tablet devices, and display monitors",
+              "normalized": "laptops, desktops, tablet devices, and display monitors",
+              "confidence": 0.78,
+              "span": "...his Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals ...",
+              "method": "regex",
+              "block_id": "p1.meta0"
+            }
+          ],
+          "strategy": "precedence",
+          "rationale": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf (precedence 120, addendum) overrides Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice)."
+        },
+        {
+          "field": "bid_summary",
+          "winner": {
+            "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+            "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+            "doc_type": "portal_notice",
+            "precedence": 60,
+            "page": 1,
+            "raw": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+            "normalized": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+            "confidence": 0.95,
+            "span": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+            "method": "section",
+            "block_id": "p1.f22"
+          },
+          "losers": [
+            {
+              "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+              "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices. Each submission must include a d See more",
+              "normalized": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices. Each submission must include a d",
+              "confidence": 0.92,
+              "span": "Description: Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the Dist",
+              "method": "pdf_label",
+              "block_id": "p1.f22"
+            },
+            {
+              "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+              "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+              "normalized": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+              "confidence": 0.855,
+              "span": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+              "method": "section",
+              "block_id": "p2.t1"
+            }
+          ],
+          "strategy": "precedence",
+          "rationale": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice) overrides Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice)."
+        }
+      ],
+      "metadata": {
+        "started_at": "2026-09-19T10:33:36.176549",
+        "finished_at": "2026-09-19T10:35:41.457486",
+        "duration_seconds": 125.281,
+        "provider": "rule-based",
+        "model": null,
+        "config_version": "1.0.0",
+        "pipeline_version": "1.0.0",
+        "tokens_used": 0,
+        "estimated_cost_usd": 0.0,
+        "warnings": []
+      }
+    },
+    "bid2": {
+      "bid_id": "bid2",
+      "bid_number": "BPM044557",
+      "title": "Dell Laptops w/Extended Warranty",
+      "due_date": "2024-06-10T14:00:00-04:00",
+      "bid_submission_type": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+      "term_of_bid": null,
+      "pre_bid_meeting": null,
+      "installation": null,
+      "bid_bond_requirement": null,
+      "delivery_date": "45 days of Award",
+      "payment_terms": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+      "additional_documentation_required": "Mercury Affidavit; Letter of Authorization; Contract Affidavit",
+      "mfg_for_registration": "authorized reseller for Dell",
+      "contract_or_cooperative_to_use": "Hardware Master Contract",
+      "model_no": [
+        "Dell Latitude 5550",
+        "WD22TB4"
+      ],
+      "part_no": [
+        "210-BLYZ",
+        "379-BFNZ",
+        "619-ARSB",
+        "658-BCSB",
+        "338-CNRK",
+        "409-BCXY",
+        "631-BBSQ",
+        "370-BBTL",
+        "400-BRFT",
+        "391-BJHB",
+        "583-BLNH",
+        "555-BKQC",
+        "555-BKLQ",
+        "451-BDGX",
+        "492-BDMN",
+        "346-BKLV",
+        "537-BBDO",
+        "340-DMNY",
+        "387-BBPC",
+        "817-BBBB",
+        "658-BFQB",
+        "340-DMMK",
+        "389-FGSN",
+        "319-BBKK",
+        "634-BRWG",
+        "362-7806",
+        "364-1846",
+        "364-4107",
+        "365-0257",
+        "366-0135",
+        "366-0141",
+        "371-0941",
+        "375-3088",
+        "383-0464"
+      ],
+      "product": "Dell Laptops w/Extended Warranty",
+      "contact_info": "Thawkins@treasurer.state.md.us; Tamaira Hawkins; 410-260-7533; STOaccountspayable@treasurer.state.md.us; 410-260-6063",
+      "company_name": "Dell Marketing LP.",
+      "bid_summary": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024",
+      "product_specification": {
+        "SI# CC7802 Dell Latitude 5550": {
+          "product name": "1. SI# CC7802 Dell Latitude 5550",
+          "product description": "SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready*",
+          "model #": "SI# CC7802"
+        },
+        "Dell Thunderbolt 4 Dock - WD22TB4": {
+          "product name": "2. Dell Thunderbolt 4 Dock - WD22TB4",
+          "product description": "Dell Thunderbolt 4 Dock - WD22TB4",
+          "model #": "WD22TB4"
+        },
+        "Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years": {
+          "product name": "1. Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years"
+        }
+      },
+      "pricing_schedule": {
+        "Line 1": {
+          "item": "SI# CC7802 Dell Latitude 5550",
+          "target_quantity": "30"
+        },
+        "Line 2": {
+          "item": "Dell Thunderbolt 4 Dock - WD22TB4",
+          "target_quantity": "30"
+        }
+      },
+      "documents": [
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "file_format": "html",
+          "doc_type": "portal_notice",
+          "precedence": 60,
+          "page_count": 1,
+          "content_hash": "7058ff3b1cff182b660fae68b3283c3ff66282ba4ce8ad15df7961c5182071b4",
+          "addendum_number": null,
+          "doc_type_confidence": 1.0,
+          "amendment_notes": []
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "file_format": "pdf",
+          "doc_type": "master_rfp",
+          "precedence": 40,
+          "page_count": 4,
+          "content_hash": "fda23c10ff192692e8d2c6e1bfb4e20d027e0b542da21746ab72d5ba90d5ef6c",
+          "addendum_number": null,
+          "doc_type_confidence": 1.0,
+          "amendment_notes": [
+            "SMALL BUSINESS RESERVE (SBR) PROCUREMENT This is a Small Business Reserve Procurement for which award will be limited to certified small business vendors.",
+            "gov/emma-qrgs/ Refer to Vendor QRG 4 - eMMA QRG Responding to Solicitations (IFB) | | | | | Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007, This is a Small Business Reserve Procurement for which award will be limited to certified small business vendors.",
+            "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following: •Contractor name, mailing address, social security number or Federal Tax ID number, and phone number.",
+            "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following: • Contractor name, mailing address, social security number or Federal Tax ID number, and phone number.",
+            "Price Basis for Award Recommendation Evaluation criteria for award will be established at the PORFP level.",
+            "PORFPs will be awarded in accordance with the competitive Sealed Proposals process under COMAR 21.",
+            "Price | | Basis for Award Recommendation Evaluation criteria for award will be established at the PORFP level."
+          ]
+        },
+        {
+          "doc_id": "dell-laptop-specs-d4daa1e2",
+          "file_name": "Dell_Laptop_Specs.pdf",
+          "file_format": "pdf",
+          "doc_type": "vendor_spec",
+          "precedence": 25,
+          "page_count": 3,
+          "content_hash": "d4daa1e258cf3d4470518c4530bf45cb9629684e9c644191190039fc0bfd6378",
+          "addendum_number": null,
+          "doc_type_confidence": 1.0,
+          "amendment_notes": [
+            "The final amounts shall be stated on the relevant invoice.",
+            "Additional freight charges will be applied if Customer requests expedited shipping.",
+            "For certain products shipped to end users in California, a State Environmental Fee will be applied to Customer's invoice."
+          ]
+        },
+        {
+          "doc_id": "contract-affidavit-e1eaac54",
+          "file_name": "Contract_Affidavit.pdf",
+          "file_format": "pdf",
+          "doc_type": "legal_affidavit",
+          "precedence": 20,
+          "page_count": 3,
+          "content_hash": "e1eaac548d46dd8d85661a836f995375941f1c76287434980f4f3fb1e6e0ac38",
+          "addendum_number": null,
+          "doc_type_confidence": 1.0,
+          "amendment_notes": [
+            "08 or this certification shall be cause to suspend payments under, or terminate the contract for default under COMAR 21."
+          ]
+        },
+        {
+          "doc_id": "mercury-affidavit-edb5d560",
+          "file_name": "Mercury_Affidavit.pdf",
+          "file_format": "pdf",
+          "doc_type": "legal_affidavit",
+          "precedence": 20,
+          "page_count": 1,
+          "content_hash": "edb5d560d0381c018037489d2a393433f2cbec79f1041952e061b8121884377a",
+          "addendum_number": null,
+          "doc_type_confidence": 1.0,
+          "amendment_notes": []
+        }
+      ],
+      "fields": {
+        "bid_number": {
+          "field": "bid_number",
+          "value": "BPM044557",
+          "normalized": "BPM044557",
+          "confidence": 0.99,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f6",
+              "span": "Solicitation Number: BPM044557",
+              "confidence": 0.99,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "BPM044557",
+              "normalized": "BPM044557",
+              "confidence": 0.99,
+              "span": "Solicitation Number: BPM044557",
+              "method": "pdf_label",
+              "block_id": "p1.f6"
+            }
+          ],
+          "conflict": null
+        },
+        "title": {
+          "field": "title",
+          "value": "Dell Laptops w/Extended Warranty",
+          "normalized": "Dell Laptops w/Extended Warranty",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f7",
+              "span": "Title: Dell Laptops w/Extended Warranty",
+              "confidence": 1.0,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Dell Laptops w/Extended Warranty",
+              "normalized": "Dell Laptops w/Extended Warranty",
+              "confidence": 1.0,
+              "span": "Title: Dell Laptops w/Extended Warranty",
+              "method": "pdf_label",
+              "block_id": "p1.f7"
+            }
+          ],
+          "conflict": null
+        },
+        "due_date": {
+          "field": "due_date",
+          "value": "06/10/2024 02:00 PM EDT",
+          "normalized": "2024-06-10T14:00:00-04:00",
+          "confidence": 0.97,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f15",
+              "span": "Closing Date: 06/10/2024 02:00 PM EDT",
+              "confidence": 0.97,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "06/10/2024 02:00 PM EDT",
+              "normalized": "2024-06-10T14:00:00-04:00",
+              "confidence": 0.97,
+              "span": "Closing Date: 06/10/2024 02:00 PM EDT",
+              "method": "pdf_label",
+              "block_id": "p1.f15"
+            }
+          ],
+          "conflict": null
+        },
+        "bid_submission_type": {
+          "field": "bid_submission_type",
+          "value": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+          "normalized": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 1,
+              "block_id": "p1.t1",
+              "span": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+              "confidence": 1.0,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 1,
+              "raw": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+              "normalized": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+              "confidence": 1.0,
+              "span": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+              "method": "section",
+              "block_id": "p1.t1"
+            }
+          ],
+          "conflict": null
+        },
+        "term_of_bid": {
+          "field": "term_of_bid",
+          "value": null,
+          "normalized": null,
+          "confidence": 0.0,
+          "present": false,
+          "null_reason": "Not stated in source documents",
+          "evidence": [],
+          "candidates": [],
+          "conflict": null
+        },
+        "pre_bid_meeting": {
+          "field": "pre_bid_meeting",
+          "value": null,
+          "normalized": null,
+          "confidence": 0.0,
+          "present": false,
+          "null_reason": "Not stated in source documents",
+          "evidence": [],
+          "candidates": [],
+          "conflict": null
+        },
+        "installation": {
+          "field": "installation",
+          "value": null,
+          "normalized": null,
+          "confidence": 0.0,
+          "present": false,
+          "null_reason": "Not stated in source documents",
+          "evidence": [],
+          "candidates": [],
+          "conflict": null
+        },
+        "bid_bond_requirement": {
+          "field": "bid_bond_requirement",
+          "value": null,
+          "normalized": null,
+          "confidence": 0.0,
+          "present": false,
+          "null_reason": "Not stated in source documents",
+          "evidence": [],
+          "candidates": [],
+          "conflict": null
+        },
+        "delivery_date": {
+          "field": "delivery_date",
+          "value": "45 days of Award",
+          "normalized": "45 days of Award",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "block_id": "p2.t1",
+              "span": "....maryland.gov/contracts/Documents/hardware_co ntract/hwmercury_affidavit.pdf 9. Delivery within 45 days of Award. | Invoicing Instructions: | | 1. Email invoices to: STOaccountspayable@treas...",
+              "confidence": 1.0,
+              "method": "table",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "45 days of Award",
+              "normalized": "45 days of Award",
+              "confidence": 1.0,
+              "span": "....maryland.gov/contracts/Documents/hardware_co ntract/hwmercury_affidavit.pdf 9. Delivery within 45 days of Award. | Invoicing Instructions: | | 1. Email invoices to: STOaccountspayable@treas...",
+              "method": "table",
+              "block_id": "p2.t1"
+            }
+          ],
+          "conflict": {
+            "field": "delivery_date",
+            "winner": {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "45 days of Award",
+              "normalized": "45 days of Award",
+              "confidence": 1.0,
+              "span": "....maryland.gov/contracts/Documents/hardware_co ntract/hwmercury_affidavit.pdf 9. Delivery within 45 days of Award. | Invoicing Instructions: | | 1. Email invoices to: STOaccountspayable@treas...",
+              "method": "table",
+              "block_id": "p2.t1"
+            },
+            "losers": [
+              {
+                "doc_id": "porfp-dell-laptop-final-fda23c10",
+                "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+                "doc_type": "master_rfp",
+                "precedence": 40,
+                "page": 2,
+                "raw": "The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I",
+                "normalized": "The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I",
+                "confidence": 0.8,
+                "span": "The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I",
+                "method": "section",
+                "block_id": "p2.t1"
+              }
+            ],
+            "strategy": "precedence",
+            "rationale": "PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp) overrides PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp)."
+          }
+        },
+        "payment_terms": {
+          "field": "payment_terms",
+          "value": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+          "normalized": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "block_id": "p2.b30",
+              "span": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+              "confidence": 0.98,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "block_id": "p2.b15",
+              "span": "PORFP to be valid for at least 90 days after the set due date above.",
+              "confidence": 0.78,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+              "normalized": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+              "confidence": 0.98,
+              "span": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+              "method": "section",
+              "block_id": "p2.b30"
+            },
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "PORFP to be valid for at least 90 days after the set due date above.",
+              "normalized": "PORFP to be valid for at least 90 days after the set due date above.",
+              "confidence": 0.78,
+              "span": "PORFP to be valid for at least 90 days after the set due date above.",
+              "method": "section",
+              "block_id": "p2.b15"
+            }
+          ],
+          "conflict": null
+        },
+        "additional_documentation_required": {
+          "field": "additional_documentation_required",
+          "value": "Mercury Affidavit; Letter of Authorization; Contract Affidavit",
+          "normalized": "Mercury Affidavit; Letter of Authorization; Contract Affidavit",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "block_id": "p2.b24",
+              "span": "8.The Master Contractor must provide a Mercury Affidavit:",
+              "confidence": 0.98,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "block_id": "p2.b24",
+              "span": "The Master Contractor must provide a Mercury Affidavit:",
+              "confidence": 0.883,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "block_id": "p2.b18",
+              "span": "The state reserves the right to request a Letter of Authorization",
+              "confidence": 0.788,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "mercury-affidavit-edb5d560",
+              "file_name": "Mercury_Affidavit.pdf",
+              "page": 1,
+              "block_id": "p1.b1",
+              "span": "MERCURY AFFIDAVIT",
+              "confidence": 0.98,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "Mercury Affidavit; Letter of Authorization; Contract Affidavit",
+              "normalized": "Mercury Affidavit; Letter of Authorization; Contract Affidavit",
+              "confidence": 0.98,
+              "span": "8.The Master Contractor must provide a Mercury Affidavit:",
+              "method": "regex",
+              "block_id": "p2.b24"
+            },
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "The Master Contractor must provide a Mercury Affidavit:",
+              "normalized": "The Master Contractor must provide a Mercury Affidavit:",
+              "confidence": 0.883,
+              "span": "The Master Contractor must provide a Mercury Affidavit:",
+              "method": "section",
+              "block_id": "p2.b24"
+            },
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "Letter of Authorization",
+              "normalized": "Letter of Authorization",
+              "confidence": 0.788,
+              "span": "The state reserves the right to request a Letter of Authorization",
+              "method": "regex",
+              "block_id": "p2.b18"
+            },
+            {
+              "doc_id": "mercury-affidavit-edb5d560",
+              "file_name": "Mercury_Affidavit.pdf",
+              "doc_type": "legal_affidavit",
+              "precedence": 20,
+              "page": 1,
+              "raw": "MERCURY AFFIDAVIT",
+              "normalized": "MERCURY AFFIDAVIT",
+              "confidence": 0.98,
+              "span": "MERCURY AFFIDAVIT",
+              "method": "regex",
+              "block_id": "p1.b1"
+            }
+          ],
+          "conflict": null
+        },
+        "mfg_for_registration": {
+          "field": "mfg_for_registration",
+          "value": "authorized reseller for Dell",
+          "normalized": "authorized reseller for Dell",
+          "confidence": 0.88,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 2,
+              "block_id": "p2.b17",
+              "span": "4.The Master Contractor must be an authorized reseller for Dell.",
+              "confidence": 0.88,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "authorized reseller for Dell",
+              "normalized": "authorized reseller for Dell",
+              "confidence": 0.88,
+              "span": "4.The Master Contractor must be an authorized reseller for Dell.",
+              "method": "regex",
+              "block_id": "p2.b17"
+            }
+          ],
+          "conflict": null
+        },
+        "contract_or_cooperative_to_use": {
+          "field": "contract_or_cooperative_to_use",
+          "value": "Hardware Master Contract",
+          "normalized": "Hardware Master Contract",
+          "confidence": 0.98,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 1,
+              "block_id": "p1.b13",
+              "span": "(See \"Hardware Master Contract MBE Participation Worksheet\"):",
+              "confidence": 0.98,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 1,
+              "raw": "Hardware Master Contract",
+              "normalized": "Hardware Master Contract",
+              "confidence": 0.98,
+              "span": "(See \"Hardware Master Contract MBE Participation Worksheet\"):",
+              "method": "regex",
+              "block_id": "p1.b13"
+            }
+          ],
+          "conflict": {
+            "field": "contract_or_cooperative_to_use",
+            "winner": {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 1,
+              "raw": "Hardware Master Contract",
+              "normalized": "Hardware Master Contract",
+              "confidence": 0.98,
+              "span": "(See \"Hardware Master Contract MBE Participation Worksheet\"):",
+              "method": "regex",
+              "block_id": "p1.b13"
+            },
+            "losers": [
+              {
+                "doc_id": "porfp-dell-laptop-final-fda23c10",
+                "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+                "doc_type": "master_rfp",
+                "precedence": 40,
+                "page": 1,
+                "raw": "Desktop, Laptop and Tablet 2015 Master Contract,",
+                "normalized": "Desktop, Laptop and Tablet 2015 Master Contract,",
+                "confidence": 0.93,
+                "span": "Desktop, Laptop and Tablet 2015 Master Contract,",
+                "method": "section",
+                "block_id": "p1.b21"
+              },
+              {
+                "doc_id": "porfp-dell-laptop-final-fda23c10",
+                "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+                "doc_type": "master_rfp",
+                "precedence": 40,
+                "page": 1,
+                "raw": "060B5400007",
+                "normalized": "060B5400007",
+                "confidence": 0.75,
+                "span": "...e awarded a contract under the Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007, are eligible to submit a bid in response to this secondary competition Purchas...",
+                "method": "table",
+                "block_id": "p1.t1"
+              }
+            ],
+            "strategy": "precedence",
+            "rationale": "PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp) overrides PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp)."
+          }
+        },
+        "model_no": {
+          "field": "model_no",
+          "value": [
+            "Dell Latitude 5550",
+            "WD22TB4"
+          ],
+          "normalized": [
+            "Dell Latitude 5550",
+            "WD22TB4"
+          ],
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "page": 1,
+              "block_id": "p1.b1",
+              "span": "SI# CC7802 Dell Latitude 5550",
+              "confidence": 0.97,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "page": 1,
+              "block_id": "p1.b1",
+              "span": "SI# CC7802 Dell Latitude 5550",
+              "confidence": 0.85,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.meta0",
+              "span": "...24 02:00 PM EDT Contact Information: Tamaira Hawkins Description: 1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7...",
+              "confidence": 0.95,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.meta0",
+              "span": "... Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+              "confidence": 0.9,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "doc_type": "vendor_spec",
+              "precedence": 225,
+              "page": 1,
+              "raw": [
+                "Dell Latitude 5550",
+                "WD22TB4"
+              ],
+              "normalized": [
+                "Dell Latitude 5550",
+                "WD22TB4"
+              ],
+              "confidence": 0.97,
+              "span": "SI# CC7802 Dell Latitude 5550",
+              "method": "regex",
+              "block_id": "p1.b1"
+            },
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "doc_type": "vendor_spec",
+              "precedence": 225,
+              "page": 1,
+              "raw": "Latitude 5550",
+              "normalized": [
+                "Latitude 5550"
+              ],
+              "confidence": 0.85,
+              "span": "SI# CC7802 Dell Latitude 5550",
+              "method": "regex",
+              "block_id": "p1.b1"
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Dell Latitude 5550",
+              "normalized": [
+                "Dell Latitude 5550"
+              ],
+              "confidence": 0.95,
+              "span": "...24 02:00 PM EDT Contact Information: Tamaira Hawkins Description: 1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7...",
+              "method": "regex",
+              "block_id": "p1.meta0"
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "WD22TB4",
+              "normalized": [
+                "WD22TB4"
+              ],
+              "confidence": 0.9,
+              "span": "... Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+              "method": "regex",
+              "block_id": "p1.meta0"
+            }
+          ],
+          "conflict": null
+        },
+        "part_no": {
+          "field": "part_no",
+          "value": [
+            "210-BLYZ",
+            "379-BFNZ",
+            "619-ARSB",
+            "658-BCSB",
+            "338-CNRK",
+            "409-BCXY",
+            "631-BBSQ",
+            "370-BBTL",
+            "400-BRFT",
+            "391-BJHB",
+            "583-BLNH",
+            "555-BKQC",
+            "555-BKLQ",
+            "451-BDGX",
+            "492-BDMN",
+            "346-BKLV",
+            "537-BBDO",
+            "340-DMNY",
+            "387-BBPC",
+            "817-BBBB",
+            "658-BFQB",
+            "340-DMMK",
+            "389-FGSN",
+            "319-BBKK",
+            "634-BRWG",
+            "362-7806",
+            "364-1846",
+            "364-4107",
+            "365-0257",
+            "366-0135",
+            "366-0141",
+            "371-0941",
+            "375-3088",
+            "383-0464"
+          ],
+          "normalized": [
+            "210-BLYZ",
+            "379-BFNZ",
+            "619-ARSB",
+            "658-BCSB",
+            "338-CNRK",
+            "409-BCXY",
+            "631-BBSQ",
+            "370-BBTL",
+            "400-BRFT",
+            "391-BJHB",
+            "583-BLNH",
+            "555-BKQC",
+            "555-BKLQ",
+            "451-BDGX",
+            "492-BDMN",
+            "346-BKLV",
+            "537-BBDO",
+            "340-DMNY",
+            "387-BBPC",
+            "817-BBBB",
+            "658-BFQB",
+            "340-DMMK",
+            "389-FGSN",
+            "319-BBKK",
+            "634-BRWG",
+            "362-7806",
+            "364-1846",
+            "364-4107",
+            "365-0257",
+            "366-0135",
+            "366-0141",
+            "371-0941",
+            "375-3088",
+            "383-0464"
+          ],
+          "confidence": 0.99,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "page": 1,
+              "block_id": "p1.b3",
+              "span": "Dell Latitude 5550 XCTO Base210-BLYZ",
+              "confidence": 0.9,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "page": 1,
+              "block_id": "p1.b4",
+              "span": "Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 379-BFNZ",
+              "confidence": 0.9,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "page": 1,
+              "block_id": "p1.b6",
+              "span": "Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, 619-ARSB",
+              "confidence": 0.9,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "page": 1,
+              "block_id": "p1.b8",
+              "span": "No Microsoft Office License Included - 30 day Trial Offer Only 658-BCSB",
+              "confidence": 0.9,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "doc_type": "vendor_spec",
+              "precedence": 225,
+              "page": 1,
+              "raw": [
+                "210-BLYZ",
+                "379-BFNZ",
+                "619-ARSB",
+                "658-BCSB",
+                "338-CNRK",
+                "409-BCXY",
+                "631-BBSQ",
+                "370-BBTL",
+                "400-BRFT",
+                "391-BJHB",
+                "583-BLNH",
+                "555-BKQC",
+                "555-BKLQ",
+                "451-BDGX",
+                "492-BDMN",
+                "346-BKLV",
+                "537-BBDO",
+                "340-DMNY",
+                "387-BBPC",
+                "817-BBBB",
+                "658-BFQB",
+                "340-DMMK",
+                "389-FGSN",
+                "319-BBKK",
+                "634-BRWG",
+                "362-7806",
+                "364-1846",
+                "364-4107",
+                "365-0257",
+                "366-0135",
+                "366-0141",
+                "371-0941",
+                "375-3088",
+                "383-0464"
+              ],
+              "normalized": [
+                "210-BLYZ",
+                "379-BFNZ",
+                "619-ARSB",
+                "658-BCSB",
+                "338-CNRK",
+                "409-BCXY",
+                "631-BBSQ",
+                "370-BBTL",
+                "400-BRFT",
+                "391-BJHB",
+                "583-BLNH",
+                "555-BKQC",
+                "555-BKLQ",
+                "451-BDGX",
+                "492-BDMN",
+                "346-BKLV",
+                "537-BBDO",
+                "340-DMNY",
+                "387-BBPC",
+                "817-BBBB",
+                "658-BFQB",
+                "340-DMMK",
+                "389-FGSN",
+                "319-BBKK",
+                "634-BRWG",
+                "362-7806",
+                "364-1846",
+                "364-4107",
+                "365-0257",
+                "366-0135",
+                "366-0141",
+                "371-0941",
+                "375-3088",
+                "383-0464"
+              ],
+              "confidence": 0.9,
+              "span": "Dell Latitude 5550 XCTO Base210-BLYZ",
+              "method": "regex",
+              "block_id": "p1.b3"
+            },
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "doc_type": "vendor_spec",
+              "precedence": 225,
+              "page": 1,
+              "raw": "379-BFNZ",
+              "normalized": [
+                "379-BFNZ"
+              ],
+              "confidence": 0.9,
+              "span": "Intel Core Ultra 5 125U processor (12 MB cache, 12 cores, 14 379-BFNZ",
+              "method": "regex",
+              "block_id": "p1.b4"
+            },
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "doc_type": "vendor_spec",
+              "precedence": 225,
+              "page": 1,
+              "raw": "619-ARSB",
+              "normalized": [
+                "619-ARSB"
+              ],
+              "confidence": 0.9,
+              "span": "Windows 11 Pro, English, Brazilian Portuguese PT-BR, French, 619-ARSB",
+              "method": "regex",
+              "block_id": "p1.b6"
+            },
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "doc_type": "vendor_spec",
+              "precedence": 225,
+              "page": 1,
+              "raw": "658-BCSB",
+              "normalized": [
+                "658-BCSB"
+              ],
+              "confidence": 0.9,
+              "span": "No Microsoft Office License Included - 30 day Trial Offer Only 658-BCSB",
+              "method": "regex",
+              "block_id": "p1.b8"
+            }
+          ],
+          "conflict": null
+        },
+        "product": {
+          "field": "product",
+          "value": "Dell Laptops w/Extended Warranty",
+          "normalized": "Dell Laptops w/Extended Warranty",
+          "confidence": 0.93,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.meta0",
+              "span": "...pe: RFP - Request for Proposal (Informal) Solicitation Number: BPM044557 Title: Dell Laptops w/Extended Warranty Source ID: SCRIBE Location: Anne Arundel County Purchase Type: Not Stated Piggy...",
+              "confidence": 0.93,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Dell Laptops w/Extended Warranty",
+              "normalized": "Dell Laptops w/Extended Warranty",
+              "confidence": 0.93,
+              "span": "...pe: RFP - Request for Proposal (Informal) Solicitation Number: BPM044557 Title: Dell Laptops w/Extended Warranty Source ID: SCRIBE Location: Anne Arundel County Purchase Type: Not Stated Piggy...",
+              "method": "regex",
+              "block_id": "p1.meta0"
+            }
+          ],
+          "conflict": null
+        },
+        "contact_info": {
+          "field": "contact_info",
+          "value": "Thawkins@treasurer.state.md.us; Tamaira Hawkins; 410-260-7533; STOaccountspayable@treasurer.state.md.us; 410-260-6063",
+          "normalized": "Thawkins@treasurer.state.md.us; Tamaira Hawkins; 410-260-7533; STOaccountspayable@treasurer.state.md.us; 410-260-6063",
+          "confidence": 1.0,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f19",
+              "span": "Contact Information: Thawkins@treasurer.state.md.us",
+              "confidence": 0.95,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f17",
+              "span": "Contact Information: Tamaira Hawkins",
+              "confidence": 0.92,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f18",
+              "span": "Contact Information: 410-260-7533",
+              "confidence": 0.92,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f19",
+              "span": "Contact Information: Thawkins@treasurer.state.md.us",
+              "confidence": 0.92,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Thawkins@treasurer.state.md.us; Tamaira Hawkins; 410-260-7533; STOaccountspayable@treasurer.state.md.us; 410-260-6063",
+              "normalized": "Thawkins@treasurer.state.md.us; Tamaira Hawkins; 410-260-7533; STOaccountspayable@treasurer.state.md.us; 410-260-6063",
+              "confidence": 0.95,
+              "span": "Contact Information: Thawkins@treasurer.state.md.us",
+              "method": "regex",
+              "block_id": "p1.f19"
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Tamaira Hawkins",
+              "normalized": "Tamaira Hawkins",
+              "confidence": 0.92,
+              "span": "Contact Information: Tamaira Hawkins",
+              "method": "pdf_label",
+              "block_id": "p1.f17"
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "410-260-7533",
+              "normalized": "410-260-7533",
+              "confidence": 0.92,
+              "span": "Contact Information: 410-260-7533",
+              "method": "pdf_label",
+              "block_id": "p1.f18"
+            },
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "Thawkins@treasurer.state.md.us",
+              "normalized": "Thawkins@treasurer.state.md.us",
+              "confidence": 0.92,
+              "span": "Contact Information: Thawkins@treasurer.state.md.us",
+              "method": "pdf_label",
+              "block_id": "p1.f19"
+            }
+          ],
+          "conflict": null
+        },
+        "company_name": {
+          "field": "company_name",
+          "value": "Dell Marketing LP.",
+          "normalized": "Dell Marketing LP.",
+          "confidence": 0.931,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "page": 2,
+              "block_id": "p2.b10",
+              "span": "Page 4Dell Marketing LP. U.S. only. Dell Marketing LP. is located at One Dell Way, Mail Stop 8129, Round...",
+              "confidence": 0.931,
+              "method": "regex",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "doc_type": "vendor_spec",
+              "precedence": 225,
+              "page": 2,
+              "raw": "Dell Marketing LP.",
+              "normalized": "Dell Marketing LP.",
+              "confidence": 0.931,
+              "span": "Page 4Dell Marketing LP. U.S. only. Dell Marketing LP. is located at One Dell Way, Mail Stop 8129, Round...",
+              "method": "regex",
+              "block_id": "p2.b10"
+            }
+          ],
+          "conflict": {
+            "field": "company_name",
+            "winner": {
+              "doc_id": "dell-laptop-specs-d4daa1e2",
+              "file_name": "Dell_Laptop_Specs.pdf",
+              "doc_type": "vendor_spec",
+              "precedence": 225,
+              "page": 2,
+              "raw": "Dell Marketing LP.",
+              "normalized": "Dell Marketing LP.",
+              "confidence": 0.931,
+              "span": "Page 4Dell Marketing LP. U.S. only. Dell Marketing LP. is located at One Dell Way, Mail Stop 8129, Round...",
+              "method": "regex",
+              "block_id": "p2.b10"
+            },
+            "losers": [
+              {
+                "doc_id": "porfp-dell-laptop-final-fda23c10",
+                "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+                "doc_type": "master_rfp",
+                "precedence": 40,
+                "page": 1,
+                "raw": "Dell",
+                "normalized": "Dell",
+                "confidence": 0.836,
+                "span": "Manufacturer Name Dell",
+                "method": "regex",
+                "block_id": "p1.b9"
+              }
+            ],
+            "strategy": "precedence",
+            "rationale": "Dell_Laptop_Specs.pdf (precedence 225, vendor_spec) overrides PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp)."
+          }
+        },
+        "bid_summary": {
+          "field": "bid_summary",
+          "value": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+          "normalized": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024",
+          "confidence": 0.92,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "page": 1,
+              "block_id": "p1.f20",
+              "span": "Description: 1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+              "confidence": 0.92,
+              "method": "pdf_label",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+              "normalized": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024",
+              "confidence": 0.92,
+              "span": "Description: 1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+              "method": "pdf_label",
+              "block_id": "p1.f20"
+            }
+          ],
+          "conflict": {
+            "field": "bid_summary",
+            "winner": {
+              "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+              "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+              "doc_type": "portal_notice",
+              "precedence": 60,
+              "page": 1,
+              "raw": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+              "normalized": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024",
+              "confidence": 0.92,
+              "span": "Description: 1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+              "method": "pdf_label",
+              "block_id": "p1.f20"
+            },
+            "losers": [
+              {
+                "doc_id": "porfp-dell-laptop-final-fda23c10",
+                "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+                "doc_type": "master_rfp",
+                "precedence": 40,
+                "page": 3,
+                "raw": "*Business Need / Office is in need of a refresh of laptops and must acquire enough",
+                "normalized": "*Business Need / Office is in need of a refresh of laptops and must acquire enough",
+                "confidence": 0.9,
+                "span": "*Business Need / Office is in need of a refresh of laptops and must acquire enough",
+                "method": "section",
+                "block_id": "p3.b21"
+              }
+            ],
+            "strategy": "precedence",
+            "rationale": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice) overrides PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp)."
+          }
+        },
+        "product_specification": {
+          "field": "product_specification",
+          "value": "3 device/line-item specifications",
+          "normalized": {
+            "SI# CC7802 Dell Latitude 5550": {
+              "product name": "1. SI# CC7802 Dell Latitude 5550",
+              "product description": "SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready*",
+              "model #": "SI# CC7802"
+            },
+            "Dell Thunderbolt 4 Dock - WD22TB4": {
+              "product name": "2. Dell Thunderbolt 4 Dock - WD22TB4",
+              "product description": "Dell Thunderbolt 4 Dock - WD22TB4",
+              "model #": "WD22TB4"
+            },
+            "Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years": {
+              "product name": "1. Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years"
+            }
+          },
+          "confidence": 0.85,
+          "present": true,
+          "null_reason": null,
+          "evidence": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "page": 1,
+              "block_id": null,
+              "span": "SI# CC7802 Dell Latitude 5550; Dell Thunderbolt 4 Dock - WD22TB4; Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years",
+              "confidence": 0.85,
+              "method": "section",
+              "extraction_pass": "pass1",
+              "section": null
+            }
+          ],
+          "candidates": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 1,
+              "raw": "3 device/line-item specifications",
+              "normalized": {
+                "SI# CC7802 Dell Latitude 5550": {
+                  "product name": "1. SI# CC7802 Dell Latitude 5550",
+                  "product description": "SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready*",
+                  "model #": "SI# CC7802"
+                },
+                "Dell Thunderbolt 4 Dock - WD22TB4": {
+                  "product name": "2. Dell Thunderbolt 4 Dock - WD22TB4",
+                  "product description": "Dell Thunderbolt 4 Dock - WD22TB4",
+                  "model #": "WD22TB4"
+                },
+                "Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years": {
+                  "product name": "1. Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years"
+                }
+              },
+              "confidence": 0.85,
+              "span": "SI# CC7802 Dell Latitude 5550; Dell Thunderbolt 4 Dock - WD22TB4; Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years",
+              "method": "section",
+              "block_id": null
+            }
+          ],
+          "conflict": null
+        }
+      },
+      "conflicts_resolved": [
+        {
+          "field": "delivery_date",
+          "winner": {
+            "doc_id": "porfp-dell-laptop-final-fda23c10",
+            "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+            "doc_type": "master_rfp",
+            "precedence": 40,
+            "page": 2,
+            "raw": "45 days of Award",
+            "normalized": "45 days of Award",
+            "confidence": 1.0,
+            "span": "....maryland.gov/contracts/Documents/hardware_co ntract/hwmercury_affidavit.pdf 9. Delivery within 45 days of Award. | Invoicing Instructions: | | 1. Email invoices to: STOaccountspayable@treas...",
+            "method": "table",
+            "block_id": "p2.t1"
+          },
+          "losers": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 2,
+              "raw": "The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I",
+              "normalized": "The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I",
+              "confidence": 0.8,
+              "span": "The Master Contractor must provide the estimated ship date/lead time for each item listed in the PORFP FA I",
+              "method": "section",
+              "block_id": "p2.t1"
+            }
+          ],
+          "strategy": "precedence",
+          "rationale": "PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp) overrides PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp)."
+        },
+        {
+          "field": "contract_or_cooperative_to_use",
+          "winner": {
+            "doc_id": "porfp-dell-laptop-final-fda23c10",
+            "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+            "doc_type": "master_rfp",
+            "precedence": 40,
+            "page": 1,
+            "raw": "Hardware Master Contract",
+            "normalized": "Hardware Master Contract",
+            "confidence": 0.98,
+            "span": "(See \"Hardware Master Contract MBE Participation Worksheet\"):",
+            "method": "regex",
+            "block_id": "p1.b13"
+          },
+          "losers": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 1,
+              "raw": "Desktop, Laptop and Tablet 2015 Master Contract,",
+              "normalized": "Desktop, Laptop and Tablet 2015 Master Contract,",
+              "confidence": 0.93,
+              "span": "Desktop, Laptop and Tablet 2015 Master Contract,",
+              "method": "section",
+              "block_id": "p1.b21"
+            },
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 1,
+              "raw": "060B5400007",
+              "normalized": "060B5400007",
+              "confidence": 0.75,
+              "span": "...e awarded a contract under the Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007, are eligible to submit a bid in response to this secondary competition Purchas...",
+              "method": "table",
+              "block_id": "p1.t1"
+            }
+          ],
+          "strategy": "precedence",
+          "rationale": "PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp) overrides PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp)."
+        },
+        {
+          "field": "company_name",
+          "winner": {
+            "doc_id": "dell-laptop-specs-d4daa1e2",
+            "file_name": "Dell_Laptop_Specs.pdf",
+            "doc_type": "vendor_spec",
+            "precedence": 225,
+            "page": 2,
+            "raw": "Dell Marketing LP.",
+            "normalized": "Dell Marketing LP.",
+            "confidence": 0.931,
+            "span": "Page 4Dell Marketing LP. U.S. only. Dell Marketing LP. is located at One Dell Way, Mail Stop 8129, Round...",
+            "method": "regex",
+            "block_id": "p2.b10"
+          },
+          "losers": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 1,
+              "raw": "Dell",
+              "normalized": "Dell",
+              "confidence": 0.836,
+              "span": "Manufacturer Name Dell",
+              "method": "regex",
+              "block_id": "p1.b9"
+            }
+          ],
+          "strategy": "precedence",
+          "rationale": "Dell_Laptop_Specs.pdf (precedence 225, vendor_spec) overrides PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp)."
+        },
+        {
+          "field": "bid_summary",
+          "winner": {
+            "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+            "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+            "doc_type": "portal_notice",
+            "precedence": 60,
+            "page": 1,
+            "raw": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+            "normalized": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024",
+            "confidence": 0.92,
+            "span": "Description: 1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+            "method": "pdf_label",
+            "block_id": "p1.f20"
+          },
+          "losers": [
+            {
+              "doc_id": "porfp-dell-laptop-final-fda23c10",
+              "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+              "doc_type": "master_rfp",
+              "precedence": 40,
+              "page": 3,
+              "raw": "*Business Need / Office is in need of a refresh of laptops and must acquire enough",
+              "normalized": "*Business Need / Office is in need of a refresh of laptops and must acquire enough",
+              "confidence": 0.9,
+              "span": "*Business Need / Office is in need of a refresh of laptops and must acquire enough",
+              "method": "section",
+              "block_id": "p3.b21"
+            }
+          ],
+          "strategy": "precedence",
+          "rationale": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice) overrides PORFP_-_Dell_Laptop_Final.pdf (precedence 40, master_rfp)."
+        }
+      ],
+      "metadata": {
+        "started_at": "2026-09-19T10:33:36.176549",
+        "finished_at": "2026-09-19T10:35:41.457486",
+        "duration_seconds": 125.281,
+        "provider": "rule-based",
+        "model": null,
+        "config_version": "1.0.0",
+        "pipeline_version": "1.0.0",
+        "tokens_used": 0,
+        "estimated_cost_usd": 0.0,
+        "warnings": []
+      }
+    }
+  },
+  "metadata": {
+    "started_at": "2026-09-19T10:33:36.176549",
+    "finished_at": "2026-09-19T10:35:41.457486",
+    "duration_seconds": 125.281,
+    "provider": "rule-based",
+    "model": null,
+    "config_version": "1.0.0",
+    "pipeline_version": "1.0.0",
+    "tokens_used": 0,
+    "estimated_cost_usd": 0.0,
+    "warnings": []
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "doc_id": "contract-affidavit-e1eaac54",
+  "file_name": "Contract_Affidavit.pdf",
+  "source_path": "data\\raw\\bid2\\Contract_Affidavit.pdf",
+  "file_format": "pdf",
+  "doc_type": "legal_affidavit",
+  "precedence": 20,
+  "page_count": 3,
+  "addendum_number": null,
+  "amendment_notes": [
+    "08 or this certification shall be cause to suspend payments under, or terminate the contract for default under COMAR 21."
+  ],
+  "populated_fields": 1,
+  "values": {
+    "bid_number": null,
+    "title": null,
+    "due_date": null,
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": null,
+    "additional_documentation_required": "Contract Affidavit",
+    "mfg_for_registration": null,
+    "contract_or_cooperative_to_use": null,
+    "model_no": null,
+    "part_no": null,
+    "product": null,
+    "contact_info": null,
+    "company_name": null,
+    "bid_summary": null,
+    "product_specification": null
+  },
+  "fields": {
+    "bid_number": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "title": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_submission_type": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "term_of_bid": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "pre_bid_meeting": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "installation": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_bond_requirement": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "delivery_date": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "payment_terms": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "additional_documentation_required": {
+      "value": "Contract Affidavit",
+      "confidence": 0.9,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "contract-affidavit-e1eaac54",
+          "file_name": "Contract_Affidavit.pdf",
+          "page": 3,
+          "block_id": "p3.b31",
+          "span": "...ched remains true and correct in all respects as if made as of the date of this Contract Affidavit",
+          "confidence": 0.9,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "mfg_for_registration": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "contract_or_cooperative_to_use": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "model_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "part_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "contact_info": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "company_name": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_summary": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product_specification": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    }
+  }
+}

@@ -1,0 +1,61 @@
+# ---------------------------------------------------------------------------
+# Hand-labelled gold set for the evaluation harness.
+#
+# Built by reading the source documents directly (see docs/GOLD_SET_NOTES.md).
+# Each expectation is either:
+#   equals:    exact normalized value
+#   contains:  substring that must appear (case-insensitive)
+#   min_items: minimum number of elements (list/dict fields)
+#   null:      true -> the field must be reported absent
+#
+# Keeping the gold set in YAML means it can be reviewed and corrected without
+# touching the evaluation code.
+# ---------------------------------------------------------------------------
+
+bid1:
+  name: "Dallas ISD - JA-207652 Student and Staff Computing Devices"
+  expectations:
+    bid_number: {equals: "JA-207652"}
+    title: {contains: "student and staff computing devices"}
+    due_date: {instant: "2024-07-09T19:00:00+00:00"}
+    bid_submission_type: {contains: "electronic"}
+    term_of_bid: {contains: "three (3) year"}
+    pre_bid_meeting: {instant: "2024-06-10T19:00:00+00:00"}
+    installation: {contains: "software installation"}
+    bid_bond_requirement: {contains: "bid bond"}
+    delivery_date: {contains: "september of 2024"}
+    payment_terms: {absent: true}
+    additional_documentation_required: {contains: "1295"}
+    mfg_for_registration: {contains: "isupplier"}
+    contract_or_cooperative_to_use: {absent: true}
+    model_no: {absent: true}
+    part_no: {absent: true}
+    product: {contains: "student and staff computing devices"}
+    contact_info: {contains: "@dallasisd.org"}
+    company_name: {absent: true}
+    bid_summary: {contains: "request for proposal"}
+    product_specification: {min_items: 5}
+
+bid2:
+  name: "Maryland State Treasurer - BPM044557 Dell Laptops w/Extended Warranty"
+  expectations:
+    bid_number: {equals: "BPM044557"}
+    title: {contains: "dell laptops"}
+    due_date: {instant: "2024-06-10T18:00:00+00:00"}
+    bid_submission_type: {contains: "emaryland"}
+    term_of_bid: {absent: true}
+    pre_bid_meeting: {absent: true}
+    installation: {absent: true}
+    bid_bond_requirement: {absent: true}
+    delivery_date: {contains: "45 days"}
+    payment_terms: {contains: "invoice"}
+    additional_documentation_required: {contains: "mercury affidavit"}
+    mfg_for_registration: {contains: "dell"}
+    contract_or_cooperative_to_use: {contains: "master contract"}
+    model_no: {contains: "latitude 5550"}
+    part_no: {min_items: 20}
+    product: {contains: "dell laptops"}
+    contact_info: {contains: "thawkins@treasurer.state.md.us"}
+    company_name: {contains: "dell"}
+    bid_summary: {contains: "laptops"}
+    product_specification: {min_items: 2}

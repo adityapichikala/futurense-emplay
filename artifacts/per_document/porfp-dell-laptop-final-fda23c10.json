@@ -1,0 +1,463 @@
+{
+  "doc_id": "porfp-dell-laptop-final-fda23c10",
+  "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+  "source_path": "data\\raw\\bid2\\PORFP_-_Dell_Laptop_Final.pdf",
+  "file_format": "pdf",
+  "doc_type": "master_rfp",
+  "precedence": 40,
+  "page_count": 4,
+  "addendum_number": null,
+  "amendment_notes": [
+    "SMALL BUSINESS RESERVE (SBR) PROCUREMENT This is a Small Business Reserve Procurement for which award will be limited to certified small business vendors.",
+    "gov/emma-qrgs/ Refer to Vendor QRG 4 - eMMA QRG Responding to Solicitations (IFB) | | | | | Desktop, Laptop and Tablet 2015 Master Contract, 060B5400007, This is a Small Business Reserve Procurement for which award will be limited to certified small business vendors.",
+    "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following: •Contractor name, mailing address, social security number or Federal Tax ID number, and phone number.",
+    "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following: • Contractor name, mailing address, social security number or Federal Tax ID number, and phone number.",
+    "Price Basis for Award Recommendation Evaluation criteria for award will be established at the PORFP level.",
+    "PORFPs will be awarded in accordance with the competitive Sealed Proposals process under COMAR 21.",
+    "Price | | Basis for Award Recommendation Evaluation criteria for award will be established at the PORFP level."
+  ],
+  "populated_fields": 12,
+  "values": {
+    "bid_number": "BPM044557",
+    "title": null,
+    "due_date": null,
+    "bid_submission_type": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": "45 days of Award",
+    "payment_terms": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+    "additional_documentation_required": "Mercury Affidavit; Letter of Authorization",
+    "mfg_for_registration": "authorized reseller for Dell",
+    "contract_or_cooperative_to_use": "Hardware Master Contract",
+    "model_no": [
+      "Latitude 5550",
+      "Dell Latitude",
+      "WD22TB4"
+    ],
+    "part_no": null,
+    "product": null,
+    "contact_info": "thawkins@treasurer.state.md.us; STOaccountspayable@treasurer.state.md.us; Tamaira Hawkins Agency POC 410-260-7533; 410-260-6063",
+    "company_name": "Dell",
+    "bid_summary": "*Business Need / Office is in need of a refresh of laptops and must acquire enough",
+    "product_specification": {
+      "SI# CC7802 Dell Latitude 5550": {
+        "product name": "1. SI# CC7802 Dell Latitude 5550",
+        "product description": "SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready*",
+        "model #": "SI# CC7802"
+      },
+      "Dell Thunderbolt 4 Dock - WD22TB4": {
+        "product name": "2. Dell Thunderbolt 4 Dock - WD22TB4",
+        "product description": "Dell Thunderbolt 4 Dock - WD22TB4",
+        "model #": "WD22TB4"
+      },
+      "Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years": {
+        "product name": "1. Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years"
+      }
+    }
+  },
+  "fields": {
+    "bid_number": {
+      "value": "BPM044557",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "block_id": "p1.b5",
+          "span": "eMMA Project Number: BPM044557",
+          "confidence": 1.0,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "title": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_submission_type": {
+      "value": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "block_id": "p1.t1",
+          "span": "Purchase Order Request for Proposal (PORFP) responses will only be accepted through the State's eMaryland Marketplace Advantage",
+          "confidence": 1.0,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "term_of_bid": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "pre_bid_meeting": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "installation": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_bond_requirement": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "delivery_date": {
+      "value": "45 days of Award",
+      "confidence": 0.98,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.b27",
+          "span": "9. Delivery within 45 days of Award.",
+          "confidence": 0.98,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "payment_terms": {
+      "value": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.b30",
+          "span": "Invoice(s) shall be submitted within 10 days of delivering the equipment and shall include at a minimum the following:",
+          "confidence": 0.98,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.b15",
+          "span": "PORFP to be valid for at least 90 days after the set due date above.",
+          "confidence": 0.78,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "additional_documentation_required": {
+      "value": "Mercury Affidavit; Letter of Authorization",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.b24",
+          "span": "8.The Master Contractor must provide a Mercury Affidavit:",
+          "confidence": 0.98,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.b24",
+          "span": "The Master Contractor must provide a Mercury Affidavit:",
+          "confidence": 0.93,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.b18",
+          "span": "The state reserves the right to request a Letter of Authorization",
+          "confidence": 0.83,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "mfg_for_registration": {
+      "value": "authorized reseller for Dell",
+      "confidence": 0.88,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.b17",
+          "span": "4.The Master Contractor must be an authorized reseller for Dell.",
+          "confidence": 0.88,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "contract_or_cooperative_to_use": {
+      "value": "Hardware Master Contract",
+      "confidence": 0.98,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "block_id": "p1.b13",
+          "span": "(See \"Hardware Master Contract MBE Participation Worksheet\"):",
+          "confidence": 0.98,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "model_no": {
+      "value": [
+        "Latitude 5550",
+        "Dell Latitude",
+        "WD22TB4"
+      ],
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "block_id": "p3.t1",
+          "span": "... | | | | | | | | | | | | | | | | | mm/dd/yyyy | 1. SI# CC7802 Dell Latitude 5550 | | SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* | ...",
+          "confidence": 0.97,
+          "method": "table",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "block_id": "p3.t1",
+          "span": "...| | | | | | mm/dd/yyyy | 1. SI# CC7802 Dell Latitude 5550 | | SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* | | | | | SI# CC7802 | | | | ...",
+          "confidence": 0.97,
+          "method": "table",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "block_id": "p3.t1",
+          "span": "...02 | | | | | 30 | | | | | 06/10/2024 | | 2. Dell Thunderbolt 4 Dock - WD22TB4 | | Dell Thunderbolt 4 Dock - WD22TB4 | | | | | WD22TB4 | | | | | 30 |...",
+          "confidence": 0.92,
+          "method": "table",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "block_id": "p3.b30",
+          "span": "2. Dell Thunderbolt 4 Dell Thunderbolt 4 Dock - WD22TB4 30 06/10/2024",
+          "confidence": 0.9,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "part_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "contact_info": {
+      "value": "thawkins@treasurer.state.md.us; STOaccountspayable@treasurer.state.md.us; Tamaira Hawkins Agency POC 410-260-7533; 410-260-6063",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.t1",
+          "span": "...e and Time: 06/01/2024 at 2:00 PM EDT Questions must be submitted in writing to thawkins@treasurer.state.md.us with the subject line, \"QUESTION for Dell Laptop #E20P4600040\", and be submitte...",
+          "confidence": 0.95,
+          "method": "table",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.t1",
+          "span": "... within 45 days of Award. | Invoicing Instructions: | | 1. Email invoices to: STOaccountspayable@treasurer.state.md.us 2. Invoice(s) shall be submitted within 10 days of delivering the equipment and...",
+          "confidence": 0.95,
+          "method": "table",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 2,
+          "block_id": "p2.b29",
+          "span": "STOaccountspayable@treasurer.state.md.us",
+          "confidence": 0.93,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "block_id": "p3.b3",
+          "span": "Agency POC Name: Tamaira Hawkins Agency POC 410-260-7533",
+          "confidence": 0.89,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "company_name": {
+      "value": "Dell",
+      "confidence": 0.88,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "block_id": "p1.b9",
+          "span": "Manufacturer Name Dell",
+          "confidence": 0.88,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "bid_summary": {
+      "value": "*Business Need / Office is in need of a refresh of laptops and must acquire enough",
+      "confidence": 0.9,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 3,
+          "block_id": "p3.b21",
+          "span": "*Business Need / Office is in need of a refresh of laptops and must acquire enough",
+          "confidence": 0.9,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "product_specification": {
+      "value": {
+        "SI# CC7802 Dell Latitude 5550": {
+          "product name": "1. SI# CC7802 Dell Latitude 5550",
+          "product description": "SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready*",
+          "model #": "SI# CC7802"
+        },
+        "Dell Thunderbolt 4 Dock - WD22TB4": {
+          "product name": "2. Dell Thunderbolt 4 Dock - WD22TB4",
+          "product description": "Dell Thunderbolt 4 Dock - WD22TB4",
+          "model #": "WD22TB4"
+        },
+        "Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years": {
+          "product name": "1. Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years"
+        }
+      },
+      "confidence": 0.85,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "porfp-dell-laptop-final-fda23c10",
+          "file_name": "PORFP_-_Dell_Laptop_Final.pdf",
+          "page": 1,
+          "block_id": null,
+          "span": "SI# CC7802 Dell Latitude 5550; Dell Thunderbolt 4 Dock - WD22TB4; Dell Limited Hardware Warranty Extended for all machines purchased - 3 Years",
+          "confidence": 0.85,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    }
+  }
+}

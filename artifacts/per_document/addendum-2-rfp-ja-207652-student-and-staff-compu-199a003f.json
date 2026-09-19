@@ -1,0 +1,239 @@
+{
+  "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+  "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+  "source_path": "data\\raw\\bid1\\Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+  "file_format": "pdf",
+  "doc_type": "addendum",
+  "precedence": 120,
+  "page_count": 1,
+  "addendum_number": 2,
+  "amendment_notes": [
+    "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+    "The Purpose of this Addendum is to extend the due date of this RFP."
+  ],
+  "populated_fields": 5,
+  "values": {
+    "bid_number": "JA-207652",
+    "title": "JA-207652 Student and Staff Computing Devices",
+    "due_date": "2024-07-09T14:00:00-05:00",
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": null,
+    "additional_documentation_required": "Please sign this addendum and submit along with your copies of the proposal.",
+    "mfg_for_registration": null,
+    "contract_or_cooperative_to_use": null,
+    "model_no": null,
+    "part_no": null,
+    "product": "Student and Staff Computing Devices",
+    "contact_info": null,
+    "company_name": null,
+    "bid_summary": null,
+    "product_specification": null
+  },
+  "fields": {
+    "bid_number": {
+      "value": "JA-207652",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b15",
+          "span": "RFP JA-207652 Student and Staff Computing Devices",
+          "confidence": 1.0,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "title": {
+      "value": "JA-207652 Student and Staff Computing Devices",
+      "confidence": 0.97,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b15",
+          "span": "RFP JA-207652 Student and Staff Computing Devices",
+          "confidence": 0.97,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "due_date": {
+      "value": "2024-07-09T14:00:00-05:00",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b2",
+          "span": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+          "confidence": 1.0,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "bid_submission_type": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "term_of_bid": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "pre_bid_meeting": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "installation": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_bond_requirement": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "delivery_date": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "payment_terms": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "additional_documentation_required": {
+      "value": "Please sign this addendum and submit along with your copies of the proposal.",
+      "confidence": 0.77,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b5",
+          "span": "Please sign this addendum and submit along with your copies of the proposal.",
+          "confidence": 0.77,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "mfg_for_registration": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "contract_or_cooperative_to_use": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "model_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "part_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product": {
+      "value": "Student and Staff Computing Devices",
+      "confidence": 0.97,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b15",
+          "span": "RFP JA-207652 Student and Staff Computing Devices",
+          "confidence": 0.97,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "contact_info": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "company_name": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_summary": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product_specification": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    }
+  }
+}

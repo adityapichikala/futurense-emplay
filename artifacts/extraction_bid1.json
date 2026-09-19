@@ -1,0 +1,1082 @@
+{
+  "bid_id": "bid1",
+  "Bid Number": "JA-207652",
+  "Title": "JA-207652 Student and Staff Computing Devices",
+  "Due Date": "2024-07-09T14:00:00-05:00",
+  "Bid Submission Type": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed envelope by the date and time stated.; No fax or email submissions will be accepted.",
+  "Term of Bid": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+  "Pre Bid Meeting": "2024-06-10T15:00:00-04:00",
+  "Installation": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+  "Bid Bond Requirement": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+  "Delivery Date": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+  "Payment Terms": null,
+  "Any Additional Documentation Required": "Please sign this addendum and submit along with your copies of the proposal.; FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; M/WBE Compliance Guidelines & Forms",
+  "MFG for Registration": "iSupplier portal https://www.dallasisd.org/domain/143",
+  "Contract or Cooperative to use": null,
+  "Model_no": null,
+  "Part_no": null,
+  "Product": "Student and Staff Computing Devices",
+  "contact_info": "ProcurementCS@dallasisd.org; Procurement Services; 972-925-3700; JALZATE@dallasisd.org; DGORACLEFDTEAM@DALLASISD.ORG; shewilli@dallasisd.org",
+  "company_name": null,
+  "Bid Summary": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+  "Product Specification": {
+    "Tier 1 Small Student Chromebook Laptop": {
+      "requirement_1": "Enterprise Management Ready",
+      "requirement_2": "Intel Celeron Processor N100 or equivalent",
+      "Display": "Minimum 11.6\" diagonal",
+      "Integrated Camera": "720p minimum",
+      "requirement_5": "Screen Resolution 1366 x 768 Multi-touch",
+      "Memory": "Minimum 8GB DDR5 Memory",
+      "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+      "Power Supply": "Type C, 65W",
+      "Battery Life": "Minimum 10 hours",
+      "Ports": "Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+      "Storage": "64 GB eMMC",
+      "requirement_12": "Chrome O/S License Required",
+      "Warranty": "1-year minimum"
+    },
+    "Tier 2 Large Student Chromebook Laptop": {
+      "requirement_1": "Enterprise Management Ready",
+      "requirement_2": "Intel Celeron Processor N100 or equivalent",
+      "Display": "Minimum 14\" diagonal Non-Touch",
+      "Integrated Camera": "720p minimum",
+      "requirement_5": "Screen Resolution 1920-1080",
+      "Memory": "Minimum 8GB DDR5 Memory",
+      "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+      "Power Supply": "Type C, 65W",
+      "Battery Life": "Minimum 10 Hours",
+      "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+      "Storage": "128 GB eMMC",
+      "requirement_12": "Chrome O/S License Required",
+      "Warranty": "1-year minimum"
+    },
+    "Tier 3 Student Windows Laptop": {
+      "requirement_1": "Enterprise Management Ready w/ Autopilot Enrollment",
+      "requirement_2": "Intel i5 13th Gen or equivalent",
+      "Display": "Minimum 13\" diagonal",
+      "Integrated Camera": "720p minimum",
+      "requirement_5": "Screen Resolution 1920-1080 Non-Touch",
+      "Memory": "Minimum 16GB RAM DDR5 Memory",
+      "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+      "Power Supply": "Type C, 65W",
+      "Battery Life": "Minimum 10 Hours",
+      "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+      "Storage": "256 GB NVMe SSD",
+      "requirement_12": "Windows 11 Pro",
+      "Warranty": "3-year minimum"
+    },
+    "Student Tablet": {
+      "requirement_1": "Enterprise Management Ready",
+      "requirement_2": "Processor A13",
+      "Display": "10.2\" Retina",
+      "Integrated Camera": "8MP Wide camera",
+      "requirement_5": "Screen Resolutions 2160 x 1620 Multi-touch",
+      "Wireless": "802.11AC and Bluetooth 4.2",
+      "requirement_7": "Power Supply included",
+      "Battery Life": "Minimum 10 Hours",
+      "Ports": "1 headphone or other personal audio connection",
+      "Storage": "64 GB",
+      "requirement_11": "iOS 17",
+      "Warranty": "1-year minimum"
+    },
+    "Tier 1 Staff Windows Basic Desktop": {
+      "requirement_1": "Enterprise Management Ready with Autopilot Enrollment",
+      "Processor": "Intel i5 Processor, 14th Gen or equivalent",
+      "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+      "Memory": "Minimum 16GB RAM",
+      "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+      "Ports": "Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo",
+      "Storage": "512 GB NVMe SSD",
+      "requirement_8": "Windows 11 Pro",
+      "Warranty": "3-year minimum"
+    },
+    "Tier 2 Staff Professional Desktop": {
+      "requirement_1": "Enterprise Management Ready",
+      "requirement_2": "Intel i7 Processor, 14th Gen or equivalent",
+      "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+      "Memory": "Minimum 32GB DDR5 RAM",
+      "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+      "Ports": "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+      "Storage": "1 TB NVMe SSD",
+      "requirement_8": "Windows 11 Pro or Mac O/S",
+      "requirement_9": "4 GB Video card",
+      "requirement_10": "Touchscreen optional",
+      "Warranty": "3-year minimum"
+    },
+    "Tier 1 Staff Basic Laptop": {
+      "requirement_1": "Enterprise Management Ready",
+      "requirement_2": "Intel i5 CPU, 14th Gen or equivalent",
+      "Display": "Minimum 13\" diagonal screen",
+      "Integrated Camera": "1080p",
+      "Memory": "Minimum 16GB DDR5 RAM",
+      "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+      "Power Supply": "USB Type C, 65W",
+      "Battery Life": "Minimum 10 hours",
+      "Ports": "Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+      "Storage": "512 GB NVMe SSD",
+      "requirement_11": "0/S Windows 11 or Mac OS",
+      "Warranty": "3-year minimum"
+    },
+    "Tier 2 Staff Laptop": {
+      "requirement_1": "Enterprise Management Ready",
+      "requirement_2": "Intel i7 CPU, 14th Gen or equivalent",
+      "Display": "Minimum 13\" diagonal screen",
+      "Integrated Camera": "1080p",
+      "Resolution": "1920 X 1080 minimum",
+      "Memory": "Minimum 32GB DDR5 RAM",
+      "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+      "Power Supply": "USB C, 65W",
+      "Battery Life": "Minimum 10 hours",
+      "Ports": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+      "Storage": "1 TB NVMe SSD",
+      "requirement_12": "0/S: Windows 11 or Mac OS",
+      "Warranty": "3-year minimum"
+    },
+    "Display Monitor - Touch": {
+      "requirement_1": "Minimum 24\" diagonal screen",
+      "Resolution": "1920 X 1080",
+      "Port": "USB 3.1 Hub",
+      "Aspect Ratio": "16:9",
+      "Contrast": "3000:1",
+      "Warranty": "3-year minimum"
+    },
+    "Display Monitor - Non-Touch": {
+      "requirement_1": "Minimum 24\" diagonal screen",
+      "Resolution": "1920 X 1080",
+      "Port": "USB 3.1 Hub",
+      "Warranty": "3-year minimum",
+      "requirement_5": ""
+    }
+  },
+  "pricing_schedule": {
+    "Line 1": {
+      "item": "Tier 1 Small Student Chromebook Laptop (Touch)",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 2": {
+      "item": "Tier 2 Large Student Chromebook Laptop (Non- Touch)",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 3": {
+      "item": "Tier 3 Student Windows Laptop",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 4": {
+      "item": "Student Tablet",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 5": {
+      "item": "Tier 1 Staff Basic Desktop",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 6": {
+      "item": "Tier 2 Staff Professional Desktop",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 7": {
+      "item": "Tier 1 Staff Laptop",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 8": {
+      "item": "Tier 2 Staff Laptop",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 9": {
+      "item": "Display Monitor - Touch",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 10": {
+      "item": "Display Monitor - Non-Touch",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 11": {
+      "item": "Additional Warranty - not included in the initial purchase of a device",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 12": {
+      "item": "Device Deployment - include all associated costs for asset decaling and reporting, etching, and delivery",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 13": {
+      "item": "Subscriptions/Services Required with the purchase of any device",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 14": {
+      "item": "Discount Percentage Off Catalog or List Price - provide your catalog/price list with your submission to ensure the District can verify pricing",
+      "target_quantity": "1",
+      "unit": "Each"
+    },
+    "Line 15.01": {
+      "item": "Tier 1 Small Student Chromebook Laptop (Touch)",
+      "target_quantity": "50,000",
+      "unit": "Each"
+    },
+    "Line 15.02": {
+      "item": "Tier 2 Large Student Chromebook Laptop (Non- Touch)",
+      "target_quantity": "50,000",
+      "unit": "Each"
+    },
+    "Line 16.01": {
+      "item": "Tier 3 Student Windows Laptop",
+      "target_quantity": "5,000",
+      "unit": "Each"
+    },
+    "Line 17.01": {
+      "item": "Student Tablet",
+      "target_quantity": "50,000",
+      "unit": "Each"
+    },
+    "Line 18.01": {
+      "item": "Tier 1 Staff Laptop",
+      "target_quantity": "10,000",
+      "unit": "Each"
+    },
+    "Line 18.02": {
+      "item": "Tier 2 Staff Laptop",
+      "target_quantity": "10,000",
+      "unit": "Each"
+    },
+    "Line 19.01": {
+      "item": "Tier 1 Staff Basic Desktop",
+      "target_quantity": "5,000",
+      "unit": "Each"
+    },
+    "Line 19.02": {
+      "item": "Tier 2 Staff Professional Desktop",
+      "target_quantity": "5,000",
+      "unit": "Each"
+    },
+    "Line 20.01": {
+      "item": "Display Monitor - Touch",
+      "target_quantity": "5,000",
+      "unit": "Each"
+    },
+    "Line 20.02": {
+      "item": "Display Monitor - Non-Touch",
+      "target_quantity": "5,000",
+      "unit": "Each"
+    }
+  },
+  "documents": [
+    {
+      "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+      "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "file_format": "pdf",
+      "doc_type": "addendum",
+      "precedence": 120,
+      "page_count": 1,
+      "content_hash": "199a003f743b6cb07e710871bbdd2754cd9069380452d9293943ff2730a96e76",
+      "addendum_number": 2,
+      "doc_type_confidence": 1.0,
+      "amendment_notes": [
+        "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+        "The Purpose of this Addendum is to extend the due date of this RFP."
+      ]
+    },
+    {
+      "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+      "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+      "file_format": "pdf",
+      "doc_type": "addendum",
+      "precedence": 110,
+      "page_count": 5,
+      "content_hash": "8e8cae465a13b25e91d3368207e6db85da1fcab2642de641f96dc00d085f40be",
+      "addendum_number": 1,
+      "doc_type_confidence": 1.0,
+      "amendment_notes": [
+        "When DISD does have this type of damage, does Dallas choose to replace those units with new orders, new purchase order? Answer:Dallas ISD will not ask for Accidental Damage Protection for purchased devices.",
+        "Does Dallas ISD require a laser etch on the stand-alone monitors or AIO computers? If yes, what is the location and size of the etch? Answer:No, Dallas ISD will only require etching on Laptops.",
+        "Each option will be different and could be close to thirty options.",
+        "Can you please share the timeline DISD purchasing/M/WBE team will be reaching out to our references so we can remind them to be on the lookout during that timeline, reinforcing the urgency to respond to DISD request? Answer:References will be contacted within the week following the solicitation due date.",
+        "Is this stock solely for in-warranty OEM repairs or will the awarded vendor be responsible for out-of-warranty repairs with supported hot swaps? Answer:No, hot swap is only for when warranty work will be longer than 5 business days.",
+        "Are stated quantities one-time buys or spread over the first 3 years of the contract? Answer:The quantities will be spread over life of the contract.",
+        "Laptop Battery Life: How are they measuring battery life? Answer:This will be based on the manufacturer's specifications.",
+        "The Purpose of this Addendum is to provide responses to the vendors' questions related to this RFP."
+      ]
+    },
+    {
+      "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+      "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+      "file_format": "html",
+      "doc_type": "portal_notice",
+      "precedence": 60,
+      "page_count": 1,
+      "content_hash": "66a23d7b83fdc69b0d8c10a07943d82fb64dace636c8c7e19c2777dd5e3230ae",
+      "addendum_number": null,
+      "doc_type_confidence": 1.0,
+      "amendment_notes": [
+        "Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices.",
+        "org Description: Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+        "Each submission must include a d See more Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors."
+      ]
+    },
+    {
+      "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+      "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+      "file_format": "pdf",
+      "doc_type": "master_rfp",
+      "precedence": 40,
+      "page_count": 62,
+      "content_hash": "ed147247ab0f343479b99260dff877b029aa7e6ac5ff33304328d6365d949d97",
+      "addendum_number": null,
+      "doc_type_confidence": 1.0,
+      "amendment_notes": [
+        "The Joint Venture does not replace a prime contractor's responsibility to satisfy applicable M/WBE program requirements, including M/WBE goals.",
+        "Only written questions will be considered.",
+        "3 Requirements LENGTH OF CONTRACT The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+        "Responses to questions other than administrative questions will be provided to all potential offerors by means of an addendum to the solicitation.",
+        "0Page 2 of 40 LENGTH OF CONTRACT | The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+        "PURPOSE OF REQUEST FOR PROPOSAL (RFP) This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+        "Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices.",
+        "Processes and procedures are required in the response, which outlines how tracking will be executed and any processes for providing white glove services."
+      ]
+    }
+  ],
+  "fields": {
+    "bid_number": {
+      "value": "JA-207652",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b15",
+          "span": "RFP JA-207652 Student and Staff Computing Devices",
+          "confidence": 1.0,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "title": {
+      "value": "JA-207652 Student and Staff Computing Devices",
+      "confidence": 0.97,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b15",
+          "span": "RFP JA-207652 Student and Staff Computing Devices",
+          "confidence": 0.97,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "due_date": {
+      "value": "2024-07-09T14:00:00-05:00",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b2",
+          "span": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+          "confidence": 1.0,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "bid_submission_type": {
+      "value": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed envelope by the date and time stated.; No fax or email submissions will be accepted.",
+      "confidence": 0.98,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.t1",
+          "span": "Dallas ISD prefers responses to be submitted online via our electronic system.",
+          "confidence": 0.92,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.t1",
+          "span": "sealed envelope by the date and time stated.",
+          "confidence": 0.87,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.t1",
+          "span": "No fax or email submissions will be accepted.",
+          "confidence": 0.82,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "term_of_bid": {
+      "value": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b31",
+          "span": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+          "confidence": 1.0,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b25",
+          "span": "District, may be extended not to exceed a total of 5 years(s). If either party intends not to renew the Contract,",
+          "confidence": 0.83,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b21",
+          "span": "Initial Term:3",
+          "confidence": 0.77,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b22",
+          "span": "1",
+          "confidence": 0.5,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "pre_bid_meeting": {
+      "value": "2024-06-10T15:00:00-04:00",
+      "confidence": 0.97,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f16",
+          "span": "Prebid Conference: 06/10/2024 03:00 PM EDT",
+          "confidence": 0.97,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "installation": {
+      "value": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+      "confidence": 0.98,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 7,
+          "block_id": "p7.b11",
+          "span": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+          "confidence": 0.95,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "block_id": "p4.b20",
+          "span": "For Windows devices, autopilot is required.",
+          "confidence": 0.86,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "bid_bond_requirement": {
+      "value": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+      "confidence": 0.87,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.t1",
+          "span": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+          "confidence": 0.87,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "delivery_date": {
+      "value": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+      "confidence": 0.845,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b10",
+          "span": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+          "confidence": 0.845,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "payment_terms": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "additional_documentation_required": {
+      "value": "Please sign this addendum and submit along with your copies of the proposal.; FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; M/WBE Compliance Guidelines & Forms",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b5",
+          "span": "Please sign this addendum and submit along with your copies of the proposal.",
+          "confidence": 0.94,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "block_id": "p4.b1",
+          "span": "31.FORM 1295 - CERTIFICATE OF INTERESTED PARTIES: The RFP states that \"This form must then be",
+          "confidence": 0.94,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 49,
+          "block_id": "p49.b9",
+          "span": "M/WBE Forms. Submit the completed, signed, and dated M/WBE Compliance Guidelines & Forms by the due date.",
+          "confidence": 0.85,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "mfg_for_registration": {
+      "value": "iSupplier portal https://www.dallasisd.org/domain/143",
+      "confidence": 0.921,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.t1",
+          "span": "... ISD prefers responses to be submitted online via our electronic system. Please register with the iSupplier portal https://www.dallasisd.org/domain/143 This process takes up to a week, Dallas ISD asks the vendor to please register ...",
+          "confidence": 0.921,
+          "method": "table",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "contract_or_cooperative_to_use": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "model_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "part_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product": {
+      "value": "Student and Staff Computing Devices",
+      "confidence": 0.97,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+          "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b15",
+          "span": "RFP JA-207652 Student and Staff Computing Devices",
+          "confidence": 0.97,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "contact_info": {
+      "value": "ProcurementCS@dallasisd.org; Procurement Services; 972-925-3700; JALZATE@dallasisd.org; DGORACLEFDTEAM@DALLASISD.ORG; shewilli@dallasisd.org",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f21",
+          "span": "Contact Information: ProcurementCS@dallasisd.org",
+          "confidence": 0.95,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f19",
+          "span": "Contact Information: Procurement Services",
+          "confidence": 0.92,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f20",
+          "span": "Contact Information: 972-925-3700",
+          "confidence": 0.92,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f21",
+          "span": "Contact Information: ProcurementCS@dallasisd.org",
+          "confidence": 0.92,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "company_name": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_summary": {
+      "value": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+      "confidence": 0.95,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f22",
+          "span": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+          "confidence": 0.95,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "product_specification": {
+      "value": {
+        "Tier 1 Small Student Chromebook Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel Celeron Processor N100 or equivalent",
+          "Display": "Minimum 11.6\" diagonal",
+          "Integrated Camera": "720p minimum",
+          "requirement_5": "Screen Resolution 1366 x 768 Multi-touch",
+          "Memory": "Minimum 8GB DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+          "Storage": "64 GB eMMC",
+          "requirement_12": "Chrome O/S License Required",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 2 Large Student Chromebook Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel Celeron Processor N100 or equivalent",
+          "Display": "Minimum 14\" diagonal Non-Touch",
+          "Integrated Camera": "720p minimum",
+          "requirement_5": "Screen Resolution 1920-1080",
+          "Memory": "Minimum 8GB DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 Hours",
+          "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+          "Storage": "128 GB eMMC",
+          "requirement_12": "Chrome O/S License Required",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 3 Student Windows Laptop": {
+          "requirement_1": "Enterprise Management Ready w/ Autopilot Enrollment",
+          "requirement_2": "Intel i5 13th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal",
+          "Integrated Camera": "720p minimum",
+          "requirement_5": "Screen Resolution 1920-1080 Non-Touch",
+          "Memory": "Minimum 16GB RAM DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 Hours",
+          "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+          "Storage": "256 GB NVMe SSD",
+          "requirement_12": "Windows 11 Pro",
+          "Warranty": "3-year minimum"
+        },
+        "Student Tablet": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Processor A13",
+          "Display": "10.2\" Retina",
+          "Integrated Camera": "8MP Wide camera",
+          "requirement_5": "Screen Resolutions 2160 x 1620 Multi-touch",
+          "Wireless": "802.11AC and Bluetooth 4.2",
+          "requirement_7": "Power Supply included",
+          "Battery Life": "Minimum 10 Hours",
+          "Ports": "1 headphone or other personal audio connection",
+          "Storage": "64 GB",
+          "requirement_11": "iOS 17",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 1 Staff Windows Basic Desktop": {
+          "requirement_1": "Enterprise Management Ready with Autopilot Enrollment",
+          "Processor": "Intel i5 Processor, 14th Gen or equivalent",
+          "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+          "Memory": "Minimum 16GB RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Ports": "Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo",
+          "Storage": "512 GB NVMe SSD",
+          "requirement_8": "Windows 11 Pro",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 2 Staff Professional Desktop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel i7 Processor, 14th Gen or equivalent",
+          "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+          "Memory": "Minimum 32GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Ports": "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "1 TB NVMe SSD",
+          "requirement_8": "Windows 11 Pro or Mac O/S",
+          "requirement_9": "4 GB Video card",
+          "requirement_10": "Touchscreen optional",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 1 Staff Basic Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel i5 CPU, 14th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal screen",
+          "Integrated Camera": "1080p",
+          "Memory": "Minimum 16GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "USB Type C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "512 GB NVMe SSD",
+          "requirement_11": "0/S Windows 11 or Mac OS",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 2 Staff Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel i7 CPU, 14th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal screen",
+          "Integrated Camera": "1080p",
+          "Resolution": "1920 X 1080 minimum",
+          "Memory": "Minimum 32GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "USB C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "1 TB NVMe SSD",
+          "requirement_12": "0/S: Windows 11 or Mac OS",
+          "Warranty": "3-year minimum"
+        },
+        "Display Monitor - Touch": {
+          "requirement_1": "Minimum 24\" diagonal screen",
+          "Resolution": "1920 X 1080",
+          "Port": "USB 3.1 Hub",
+          "Aspect Ratio": "16:9",
+          "Contrast": "3000:1",
+          "Warranty": "3-year minimum"
+        },
+        "Display Monitor - Non-Touch": {
+          "requirement_1": "Minimum 24\" diagonal screen",
+          "Resolution": "1920 X 1080",
+          "Port": "USB 3.1 Hub",
+          "Warranty": "3-year minimum",
+          "requirement_5": ""
+        }
+      },
+      "confidence": 0.85,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1,
+          "block_id": null,
+          "span": "Tier 1 Small Student Chromebook Laptop; Tier 2 Large Student Chromebook Laptop; Tier 3 Student Windows Laptop; Student Tablet; Tier 1 Staff Windows Basic Desktop; Tier 2 Staff Professional Desktop",
+          "confidence": 0.85,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    }
+  },
+  "conflicts_resolved": [
+    {
+      "field": "title",
+      "winner": {
+        "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+        "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "doc_type": "addendum",
+        "precedence": 120,
+        "page": 1,
+        "raw": "JA-207652 Student and Staff Computing Devices",
+        "normalized": "JA-207652 Student and Staff Computing Devices",
+        "confidence": 0.97,
+        "span": "RFP JA-207652 Student and Staff Computing Devices",
+        "method": "regex",
+        "block_id": "p1.b15"
+      },
+      "losers": [
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "doc_type": "portal_notice",
+          "precedence": 60,
+          "page": 1,
+          "raw": "Student and Staff Computing Devices **SOURCING #168884**",
+          "normalized": "Student and Staff Computing Devices **SOURCING #168884**",
+          "confidence": 1.0,
+          "span": "Title: Student and Staff Computing Devices **SOURCING #168884**",
+          "method": "pdf_label",
+          "block_id": "p1.f7"
+        }
+      ],
+      "strategy": "precedence",
+      "rationale": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf (precedence 120, addendum) overrides Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice)."
+    },
+    {
+      "field": "due_date",
+      "winner": {
+        "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+        "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "doc_type": "addendum",
+        "precedence": 120,
+        "page": 1,
+        "raw": "July 9, 2024 at 2:00 PM CST",
+        "normalized": "2024-07-09T14:00:00-05:00",
+        "confidence": 1.0,
+        "span": "The new due date for this RFP will be July 9, 2024 at 2:00 PM CST.",
+        "method": "regex",
+        "block_id": "p1.b2"
+      },
+      "losers": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "master_rfp",
+          "precedence": 40,
+          "page": 2,
+          "raw": "27-JUN-2024 14:00:00",
+          "normalized": "2024-06-27T14:00:00-05:00",
+          "confidence": 0.95,
+          "span": "Solicitation Due27-JUN-2024 14:00:00",
+          "method": "regex",
+          "block_id": "p2.b10"
+        }
+      ],
+      "strategy": "precedence",
+      "rationale": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf (precedence 120, addendum) overrides JA-207652 Student and Staff Computing Devices FINAL.pdf (precedence 40, master_rfp)."
+    },
+    {
+      "field": "product",
+      "winner": {
+        "doc_id": "addendum-2-rfp-ja-207652-student-and-staff-compu-199a003f",
+        "file_name": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+        "doc_type": "addendum",
+        "precedence": 120,
+        "page": 1,
+        "raw": "Student and Staff Computing Devices",
+        "normalized": "Student and Staff Computing Devices",
+        "confidence": 0.97,
+        "span": "RFP JA-207652 Student and Staff Computing Devices",
+        "method": "regex",
+        "block_id": "p1.b15"
+      },
+      "losers": [
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "doc_type": "portal_notice",
+          "precedence": 60,
+          "page": 1,
+          "raw": "laptops, desktops, tablet devices, and display monitors",
+          "normalized": "laptops, desktops, tablet devices, and display monitors",
+          "confidence": 0.78,
+          "span": "...his Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals ...",
+          "method": "regex",
+          "block_id": "p1.meta0"
+        }
+      ],
+      "strategy": "precedence",
+      "rationale": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf (precedence 120, addendum) overrides Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice)."
+    },
+    {
+      "field": "bid_summary",
+      "winner": {
+        "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+        "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+        "doc_type": "portal_notice",
+        "precedence": 60,
+        "page": 1,
+        "raw": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+        "normalized": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+        "confidence": 0.95,
+        "span": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+        "method": "section",
+        "block_id": "p1.f22"
+      },
+      "losers": [
+        {
+          "doc_id": "student-and-staff-computing-devices-sourcing-168-66a23d7b",
+          "file_name": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "doc_type": "portal_notice",
+          "precedence": 60,
+          "page": 1,
+          "raw": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices. Each submission must include a d See more",
+          "normalized": "Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices. Each submission must include a d",
+          "confidence": 0.92,
+          "span": "Description: Specifications include, but are not limited to: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the Dist",
+          "method": "pdf_label",
+          "block_id": "p1.f22"
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "doc_type": "master_rfp",
+          "precedence": 40,
+          "page": 2,
+          "raw": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+          "normalized": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+          "confidence": 0.855,
+          "span": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+          "method": "section",
+          "block_id": "p2.t1"
+        }
+      ],
+      "strategy": "precedence",
+      "rationale": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice) overrides Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html (precedence 60, portal_notice)."
+    }
+  ],
+  "coverage": {
+    "populated": 15,
+    "total": 20
+  },
+  "metadata": {
+    "started_at": "2026-09-19T10:33:36.176549",
+    "finished_at": "2026-09-19T10:35:41.457486",
+    "duration_seconds": 125.281,
+    "provider": "rule-based",
+    "model": null,
+    "config_version": "1.0.0",
+    "pipeline_version": "1.0.0",
+    "tokens_used": 0,
+    "estimated_cost_usd": 0.0,
+    "warnings": []
+  }
+}

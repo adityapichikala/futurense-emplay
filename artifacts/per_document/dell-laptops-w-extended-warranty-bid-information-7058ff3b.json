@@ -1,0 +1,321 @@
+{
+  "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+  "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+  "source_path": "data\\raw\\bid2\\Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+  "file_format": "html",
+  "doc_type": "portal_notice",
+  "precedence": 60,
+  "page_count": 1,
+  "addendum_number": null,
+  "amendment_notes": [],
+  "populated_fields": 7,
+  "values": {
+    "bid_number": "BPM044557",
+    "title": "Dell Laptops w/Extended Warranty",
+    "due_date": "2024-06-10T14:00:00-04:00",
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": null,
+    "bid_bond_requirement": null,
+    "delivery_date": null,
+    "payment_terms": null,
+    "additional_documentation_required": null,
+    "mfg_for_registration": null,
+    "contract_or_cooperative_to_use": null,
+    "model_no": [
+      "Dell Latitude 5550",
+      "WD22TB4"
+    ],
+    "part_no": null,
+    "product": "Dell Laptops w/Extended Warranty",
+    "contact_info": "Thawkins@treasurer.state.md.us; Tamaira Hawkins; 410-260-7533",
+    "company_name": null,
+    "bid_summary": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024",
+    "product_specification": null
+  },
+  "fields": {
+    "bid_number": {
+      "value": "BPM044557",
+      "confidence": 0.99,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f6",
+          "span": "Solicitation Number: BPM044557",
+          "confidence": 0.99,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "title": {
+      "value": "Dell Laptops w/Extended Warranty",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f7",
+          "span": "Title: Dell Laptops w/Extended Warranty",
+          "confidence": 1.0,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "due_date": {
+      "value": "2024-06-10T14:00:00-04:00",
+      "confidence": 0.97,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f15",
+          "span": "Closing Date: 06/10/2024 02:00 PM EDT",
+          "confidence": 0.97,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "bid_submission_type": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "term_of_bid": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "pre_bid_meeting": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "installation": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_bond_requirement": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "delivery_date": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "payment_terms": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "additional_documentation_required": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "mfg_for_registration": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "contract_or_cooperative_to_use": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "model_no": {
+      "value": [
+        "Dell Latitude 5550",
+        "WD22TB4"
+      ],
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.meta0",
+          "span": "...24 02:00 PM EDT Contact Information: Tamaira Hawkins Description: 1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7...",
+          "confidence": 0.95,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.meta0",
+          "span": "... Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+          "confidence": 0.9,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.meta0",
+          "span": "...:00 PM EDT Contact Information: Tamaira Hawkins Description: 1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7...",
+          "confidence": 0.85,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "part_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product": {
+      "value": "Dell Laptops w/Extended Warranty",
+      "confidence": 0.93,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.meta0",
+          "span": "...pe: RFP - Request for Proposal (Informal) Solicitation Number: BPM044557 Title: Dell Laptops w/Extended Warranty Source ID: SCRIBE Location: Anne Arundel County Purchase Type: Not Stated Piggy...",
+          "confidence": 0.93,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "contact_info": {
+      "value": "Thawkins@treasurer.state.md.us; Tamaira Hawkins; 410-260-7533",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f19",
+          "span": "Contact Information: Thawkins@treasurer.state.md.us",
+          "confidence": 0.95,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f17",
+          "span": "Contact Information: Tamaira Hawkins",
+          "confidence": 0.92,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f18",
+          "span": "Contact Information: 410-260-7533",
+          "confidence": 0.92,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f19",
+          "span": "Contact Information: Thawkins@treasurer.state.md.us",
+          "confidence": 0.92,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "company_name": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_summary": {
+      "value": "1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024",
+      "confidence": 0.92,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "dell-laptops-w-extended-warranty-bid-information-7058ff3b",
+          "file_name": "Dell Laptops w_Extended Warranty - Bid Information - {3} _ BidNet Direct.html",
+          "page": 1,
+          "block_id": "p1.f20",
+          "span": "Description: 1. SI# CC7802 Dell Latitude 5550 SI# CC7802 Dell Latitude 5550 *Laptops must be Microsoft Copilot ready* SI# CC7802 30 06/10/2024 2. Dell Thunderbolt 4 Dock - WD22TB4 Dell Thunderbolt 4 Dock - WD22TB4 WD22TB4 30 06/10/2024 See more",
+          "confidence": 0.92,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "product_specification": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    }
+  }
+}

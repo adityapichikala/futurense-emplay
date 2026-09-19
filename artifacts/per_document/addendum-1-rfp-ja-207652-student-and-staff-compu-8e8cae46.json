@@ -1,0 +1,243 @@
+{
+  "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+  "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+  "source_path": "data\\raw\\bid1\\Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+  "file_format": "pdf",
+  "doc_type": "addendum",
+  "precedence": 110,
+  "page_count": 5,
+  "addendum_number": 1,
+  "amendment_notes": [
+    "When DISD does have this type of damage, does Dallas choose to replace those units with new orders, new purchase order? Answer:Dallas ISD will not ask for Accidental Damage Protection for purchased devices.",
+    "Does Dallas ISD require a laser etch on the stand-alone monitors or AIO computers? If yes, what is the location and size of the etch? Answer:No, Dallas ISD will only require etching on Laptops.",
+    "Each option will be different and could be close to thirty options.",
+    "Can you please share the timeline DISD purchasing/M/WBE team will be reaching out to our references so we can remind them to be on the lookout during that timeline, reinforcing the urgency to respond to DISD request? Answer:References will be contacted within the week following the solicitation due date.",
+    "Is this stock solely for in-warranty OEM repairs or will the awarded vendor be responsible for out-of-warranty repairs with supported hot swaps? Answer:No, hot swap is only for when warranty work will be longer than 5 business days.",
+    "Are stated quantities one-time buys or spread over the first 3 years of the contract? Answer:The quantities will be spread over life of the contract.",
+    "Laptop Battery Life: How are they measuring battery life? Answer:This will be based on the manufacturer's specifications.",
+    "The Purpose of this Addendum is to provide responses to the vendors' questions related to this RFP."
+  ],
+  "populated_fields": 3,
+  "values": {
+    "bid_number": null,
+    "title": null,
+    "due_date": null,
+    "bid_submission_type": null,
+    "term_of_bid": null,
+    "pre_bid_meeting": null,
+    "installation": "All deliveries and deployments must incorporate white glove services, which include asset decaling, asset reporting, etching, and delivery to varied locations.",
+    "bid_bond_requirement": null,
+    "delivery_date": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+    "payment_terms": null,
+    "additional_documentation_required": "FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; Please sign this addendum and submit along with your copies of the proposal.",
+    "mfg_for_registration": null,
+    "contract_or_cooperative_to_use": null,
+    "model_no": null,
+    "part_no": null,
+    "product": null,
+    "contact_info": null,
+    "company_name": null,
+    "bid_summary": null,
+    "product_specification": null
+  },
+  "fields": {
+    "bid_number": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "title": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "due_date": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_submission_type": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "term_of_bid": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "pre_bid_meeting": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "installation": {
+      "value": "All deliveries and deployments must incorporate white glove services, which include asset decaling, asset reporting, etching, and delivery to varied locations.",
+      "confidence": 0.95,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b14",
+          "span": "All deliveries and deployments must incorporate white glove services, which include asset decaling, asset reporting, etching, and delivery to varied locations.",
+          "confidence": 0.92,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "block_id": "p4.b20",
+          "span": "For Windows devices, autopilot is required.",
+          "confidence": 0.86,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "bid_bond_requirement": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "delivery_date": {
+      "value": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+      "confidence": 0.89,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 1,
+          "block_id": "p1.b10",
+          "span": "Dallas ISD is anticipating requesting quotes for different projects from awarded vendors starting in September of 2024.",
+          "confidence": 0.89,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "payment_terms": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "additional_documentation_required": {
+      "value": "FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; Please sign this addendum and submit along with your copies of the proposal.",
+      "confidence": 0.97,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 4,
+          "block_id": "p4.b1",
+          "span": "31.FORM 1295 - CERTIFICATE OF INTERESTED PARTIES: The RFP states that \"This form must then be",
+          "confidence": 0.94,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "addendum-1-rfp-ja-207652-student-and-staff-compu-8e8cae46",
+          "file_name": "Addendum 1 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": 5,
+          "block_id": "p5.b3",
+          "span": "Please sign this addendum and submit along with your copies of the proposal.",
+          "confidence": 0.74,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "mfg_for_registration": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "contract_or_cooperative_to_use": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "model_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "part_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "contact_info": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "company_name": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_summary": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product_specification": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    }
+  }
+}

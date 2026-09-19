@@ -1,0 +1,719 @@
+{
+  "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+  "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+  "source_path": "data\\raw\\bid1\\JA-207652 Student and Staff Computing Devices FINAL.pdf",
+  "file_format": "pdf",
+  "doc_type": "master_rfp",
+  "precedence": 40,
+  "page_count": 62,
+  "addendum_number": null,
+  "amendment_notes": [
+    "The Joint Venture does not replace a prime contractor's responsibility to satisfy applicable M/WBE program requirements, including M/WBE goals.",
+    "Only written questions will be considered.",
+    "3 Requirements LENGTH OF CONTRACT The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+    "Responses to questions other than administrative questions will be provided to all potential offerors by means of an addendum to the solicitation.",
+    "0Page 2 of 40 LENGTH OF CONTRACT | The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+    "PURPOSE OF REQUEST FOR PROPOSAL (RFP) This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors.",
+    "Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices.",
+    "Processes and procedures are required in the response, which outlines how tracking will be executed and any processes for providing white glove services."
+  ],
+  "populated_fields": 14,
+  "values": {
+    "bid_number": "JA-207652",
+    "title": "JA-207652 Student and Staff Computing Devices",
+    "due_date": "2024-06-27T14:00:00+00:00",
+    "bid_submission_type": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed envelope by the date and time stated.; No fax or email submissions will be accepted.",
+    "term_of_bid": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+    "pre_bid_meeting": "2024-06-10T14:00:00+00:00",
+    "installation": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+    "bid_bond_requirement": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+    "delivery_date": null,
+    "payment_terms": null,
+    "additional_documentation_required": "FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; M/WBE Compliance Guidelines & Forms",
+    "mfg_for_registration": "iSupplier portal https://www.dallasisd.org/domain/143",
+    "contract_or_cooperative_to_use": null,
+    "model_no": null,
+    "part_no": null,
+    "product": "Student and Staff Computing Devices",
+    "contact_info": "JALZATE@dallasisd.org; DGORACLEFDTEAM@DALLASISD.ORG; shewilli@dallasisd.org; 972.925.4140; 972.925.3700",
+    "company_name": null,
+    "bid_summary": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+    "product_specification": {
+      "Tier 1 Small Student Chromebook Laptop": {
+        "requirement_1": "Enterprise Management Ready",
+        "requirement_2": "Intel Celeron Processor N100 or equivalent",
+        "Display": "Minimum 11.6\" diagonal",
+        "Integrated Camera": "720p minimum",
+        "requirement_5": "Screen Resolution 1366 x 768 Multi-touch",
+        "Memory": "Minimum 8GB DDR5 Memory",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "Type C, 65W",
+        "Battery Life": "Minimum 10 hours",
+        "Ports": "Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+        "Storage": "64 GB eMMC",
+        "requirement_12": "Chrome O/S License Required",
+        "Warranty": "1-year minimum"
+      },
+      "Tier 2 Large Student Chromebook Laptop": {
+        "requirement_1": "Enterprise Management Ready",
+        "requirement_2": "Intel Celeron Processor N100 or equivalent",
+        "Display": "Minimum 14\" diagonal Non-Touch",
+        "Integrated Camera": "720p minimum",
+        "requirement_5": "Screen Resolution 1920-1080",
+        "Memory": "Minimum 8GB DDR5 Memory",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "Type C, 65W",
+        "Battery Life": "Minimum 10 Hours",
+        "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+        "Storage": "128 GB eMMC",
+        "requirement_12": "Chrome O/S License Required",
+        "Warranty": "1-year minimum"
+      },
+      "Tier 3 Student Windows Laptop": {
+        "requirement_1": "Enterprise Management Ready w/ Autopilot Enrollment",
+        "requirement_2": "Intel i5 13th Gen or equivalent",
+        "Display": "Minimum 13\" diagonal",
+        "Integrated Camera": "720p minimum",
+        "requirement_5": "Screen Resolution 1920-1080 Non-Touch",
+        "Memory": "Minimum 16GB RAM DDR5 Memory",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "Type C, 65W",
+        "Battery Life": "Minimum 10 Hours",
+        "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+        "Storage": "256 GB NVMe SSD",
+        "requirement_12": "Windows 11 Pro",
+        "Warranty": "3-year minimum"
+      },
+      "Student Tablet": {
+        "requirement_1": "Enterprise Management Ready",
+        "requirement_2": "Processor A13",
+        "Display": "10.2\" Retina",
+        "Integrated Camera": "8MP Wide camera",
+        "requirement_5": "Screen Resolutions 2160 x 1620 Multi-touch",
+        "Wireless": "802.11AC and Bluetooth 4.2",
+        "requirement_7": "Power Supply included",
+        "Battery Life": "Minimum 10 Hours",
+        "Ports": "1 headphone or other personal audio connection",
+        "Storage": "64 GB",
+        "requirement_11": "iOS 17",
+        "Warranty": "1-year minimum"
+      },
+      "Tier 1 Staff Windows Basic Desktop": {
+        "requirement_1": "Enterprise Management Ready with Autopilot Enrollment",
+        "Processor": "Intel i5 Processor, 14th Gen or equivalent",
+        "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+        "Memory": "Minimum 16GB RAM",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Ports": "Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo",
+        "Storage": "512 GB NVMe SSD",
+        "requirement_8": "Windows 11 Pro",
+        "Warranty": "3-year minimum"
+      },
+      "Tier 2 Staff Professional Desktop": {
+        "requirement_1": "Enterprise Management Ready",
+        "requirement_2": "Intel i7 Processor, 14th Gen or equivalent",
+        "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+        "Memory": "Minimum 32GB DDR5 RAM",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Ports": "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+        "Storage": "1 TB NVMe SSD",
+        "requirement_8": "Windows 11 Pro or Mac O/S",
+        "requirement_9": "4 GB Video card",
+        "requirement_10": "Touchscreen optional",
+        "Warranty": "3-year minimum"
+      },
+      "Tier 1 Staff Basic Laptop": {
+        "requirement_1": "Enterprise Management Ready",
+        "requirement_2": "Intel i5 CPU, 14th Gen or equivalent",
+        "Display": "Minimum 13\" diagonal screen",
+        "Integrated Camera": "1080p",
+        "Memory": "Minimum 16GB DDR5 RAM",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "USB Type C, 65W",
+        "Battery Life": "Minimum 10 hours",
+        "Ports": "Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+        "Storage": "512 GB NVMe SSD",
+        "requirement_11": "0/S Windows 11 or Mac OS",
+        "Warranty": "3-year minimum"
+      },
+      "Tier 2 Staff Laptop": {
+        "requirement_1": "Enterprise Management Ready",
+        "requirement_2": "Intel i7 CPU, 14th Gen or equivalent",
+        "Display": "Minimum 13\" diagonal screen",
+        "Integrated Camera": "1080p",
+        "Resolution": "1920 X 1080 minimum",
+        "Memory": "Minimum 32GB DDR5 RAM",
+        "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+        "Power Supply": "USB C, 65W",
+        "Battery Life": "Minimum 10 hours",
+        "Ports": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+        "Storage": "1 TB NVMe SSD",
+        "requirement_12": "0/S: Windows 11 or Mac OS",
+        "Warranty": "3-year minimum"
+      },
+      "Display Monitor - Touch": {
+        "requirement_1": "Minimum 24\" diagonal screen",
+        "Resolution": "1920 X 1080",
+        "Port": "USB 3.1 Hub",
+        "Aspect Ratio": "16:9",
+        "Contrast": "3000:1",
+        "Warranty": "3-year minimum"
+      },
+      "Display Monitor - Non-Touch": {
+        "requirement_1": "Minimum 24\" diagonal screen",
+        "Resolution": "1920 X 1080",
+        "Port": "USB 3.1 Hub",
+        "Warranty": "3-year minimum",
+        "requirement_5": ""
+      }
+    }
+  },
+  "fields": {
+    "bid_number": {
+      "value": "JA-207652",
+      "confidence": 0.98,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1,
+          "block_id": "p1.b5",
+          "span": "JA-207652 Student and Staff Computing Devices",
+          "confidence": 0.98,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "title": {
+      "value": "JA-207652 Student and Staff Computing Devices",
+      "confidence": 0.93,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1,
+          "block_id": "p1.b5",
+          "span": "JA-207652 Student and Staff Computing Devices",
+          "confidence": 0.93,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "due_date": {
+      "value": "2024-06-27T14:00:00+00:00",
+      "confidence": 0.95,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b10",
+          "span": "Solicitation Due27-JUN-2024 14:00:00",
+          "confidence": 0.95,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "bid_submission_type": {
+      "value": "Dallas ISD prefers responses to be submitted online via our electronic system.; sealed envelope by the date and time stated.; No fax or email submissions will be accepted.",
+      "confidence": 0.96,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.b26",
+          "span": "Dallas ISD prefers responses to be submitted online via our electronic system.",
+          "confidence": 0.9,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.b30",
+          "span": "sealed envelope by the date and time stated.",
+          "confidence": 0.85,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.b30",
+          "span": "No fax or email submissions will be accepted.",
+          "confidence": 0.8,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "term_of_bid": {
+      "value": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b31",
+          "span": "The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total.",
+          "confidence": 1.0,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.t1",
+          "span": "LENGTH OF CONTRACT | The term of this proposal shall be for a three (3) year agreement with two (2) successive one (1) year extensions based on the long-range needs of the District and mutual consent of both parties not to exceed five (5) years total. | SCOPE AND SPECIFICATIONS OF THE PROPOSAL | The Dallas Independent School Di...",
+          "confidence": 1.0,
+          "method": "table",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b25",
+          "span": "District, may be extended not to exceed a total of 5 years(s). If either party intends not to renew the Contract,",
+          "confidence": 0.83,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b21",
+          "span": "Initial Term:3",
+          "confidence": 0.77,
+          "method": "pdf_label",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "pre_bid_meeting": {
+      "value": "2024-06-10T14:00:00+00:00",
+      "confidence": 0.95,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b7",
+          "span": "Pre-Proposal Meeting10-JUN-2024 14:00:00",
+          "confidence": 0.95,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "installation": {
+      "value": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+      "confidence": 0.98,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 7,
+          "block_id": "p7.b11",
+          "span": "services include (a) software installation, (b) asset tagging and etching, (c) device deployment and setup, and (d) asset control reporting.",
+          "confidence": 0.95,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 3,
+          "block_id": "p3.b19",
+          "span": "tracking will be executed and any processes for providing white glove services.",
+          "confidence": 0.85,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "bid_bond_requirement": {
+      "value": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+      "confidence": 0.85,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.b22",
+          "span": "insurance, bid bond, or liability requirements of the District as noted elsewhere in this solicitation document.",
+          "confidence": 0.85,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "delivery_date": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "payment_terms": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "additional_documentation_required": {
+      "value": "FORM 1295 - CERTIFICATE OF INTERESTED PARTIES; M/WBE Compliance Guidelines & Forms",
+      "confidence": 0.93,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 14,
+          "block_id": "p14.b21",
+          "span": "FORM 1295 - CERTIFICATE OF INTERESTED PARTIES",
+          "confidence": 0.9,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 44,
+          "block_id": "p44.b5",
+          "span": "Yes. If \"Yes,\" attach a copy of your plan immediately following the M/WBE Compliance Guidelines & Forms.",
+          "confidence": 0.85,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "mfg_for_registration": {
+      "value": "iSupplier portal https://www.dallasisd.org/domain/143",
+      "confidence": 0.97,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 9,
+          "block_id": "p9.t1",
+          "span": "... ISD prefers responses to be submitted online via our electronic system. Please register with the iSupplier portal https://www.dallasisd.org/domain/143 This process takes up to a week, Dallas ISD asks the vendor to please register ...",
+          "confidence": 0.97,
+          "method": "table",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "contract_or_cooperative_to_use": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "model_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "part_no": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "product": {
+      "value": "Student and Staff Computing Devices",
+      "confidence": 0.93,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1,
+          "block_id": "p1.b5",
+          "span": "JA-207652 Student and Staff Computing Devices",
+          "confidence": 0.93,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "contact_info": {
+      "value": "JALZATE@dallasisd.org; DGORACLEFDTEAM@DALLASISD.ORG; shewilli@dallasisd.org; 972.925.4140; 972.925.3700",
+      "confidence": 1.0,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.b2",
+          "span": "Buyer ALZATE, JASMINE Email JALZATE@dallasisd.org",
+          "confidence": 0.93,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 61,
+          "block_id": "p61.b3",
+          "span": "PLEASE COMPLETE THE FORM BELOW AND RETURN TO DGORACLEFDTEAM@DALLASISD.ORG.",
+          "confidence": 0.9,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 61,
+          "block_id": "p61.b36",
+          "span": "Please direct all procurement questions to Sherri Williams at shewilli@dallasisd.org.",
+          "confidence": 0.9,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        },
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 62,
+          "block_id": "p62.b4",
+          "span": "Please direct all procurement questions to Sherri Williams at shewilli@dallasisd.org.",
+          "confidence": 0.9,
+          "method": "regex",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "company_name": {
+      "value": null,
+      "confidence": 0.0,
+      "present": false,
+      "null_reason": "Not stated in source documents",
+      "evidence": []
+    },
+    "bid_summary": {
+      "value": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+      "confidence": 0.9,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 2,
+          "block_id": "p2.t1",
+          "span": "The Dallas Independent School District (Dallas ISD or District) is soliciting offers for the goods and/or services specified in this document.",
+          "confidence": 0.9,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    },
+    "product_specification": {
+      "value": {
+        "Tier 1 Small Student Chromebook Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel Celeron Processor N100 or equivalent",
+          "Display": "Minimum 11.6\" diagonal",
+          "Integrated Camera": "720p minimum",
+          "requirement_5": "Screen Resolution 1366 x 768 Multi-touch",
+          "Memory": "Minimum 8GB DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 2 USB 3.0; type C; 1 headphone/microphone combo",
+          "Storage": "64 GB eMMC",
+          "requirement_12": "Chrome O/S License Required",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 2 Large Student Chromebook Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel Celeron Processor N100 or equivalent",
+          "Display": "Minimum 14\" diagonal Non-Touch",
+          "Integrated Camera": "720p minimum",
+          "requirement_5": "Screen Resolution 1920-1080",
+          "Memory": "Minimum 8GB DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 Hours",
+          "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+          "Storage": "128 GB eMMC",
+          "requirement_12": "Chrome O/S License Required",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 3 Student Windows Laptop": {
+          "requirement_1": "Enterprise Management Ready w/ Autopilot Enrollment",
+          "requirement_2": "Intel i5 13th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal",
+          "Integrated Camera": "720p minimum",
+          "requirement_5": "Screen Resolution 1920-1080 Non-Touch",
+          "Memory": "Minimum 16GB RAM DDR5 Memory",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "Type C, 65W",
+          "Battery Life": "Minimum 10 Hours",
+          "requirement_10": "Ports, Minimum 2 USB 3.0; 1 Type C; 65HDMI; 1 headphone/microphone combo",
+          "Storage": "256 GB NVMe SSD",
+          "requirement_12": "Windows 11 Pro",
+          "Warranty": "3-year minimum"
+        },
+        "Student Tablet": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Processor A13",
+          "Display": "10.2\" Retina",
+          "Integrated Camera": "8MP Wide camera",
+          "requirement_5": "Screen Resolutions 2160 x 1620 Multi-touch",
+          "Wireless": "802.11AC and Bluetooth 4.2",
+          "requirement_7": "Power Supply included",
+          "Battery Life": "Minimum 10 Hours",
+          "Ports": "1 headphone or other personal audio connection",
+          "Storage": "64 GB",
+          "requirement_11": "iOS 17",
+          "Warranty": "1-year minimum"
+        },
+        "Tier 1 Staff Windows Basic Desktop": {
+          "requirement_1": "Enterprise Management Ready with Autopilot Enrollment",
+          "Processor": "Intel i5 Processor, 14th Gen or equivalent",
+          "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+          "Memory": "Minimum 16GB RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Ports": "Minimum 3 USB 3.0; 2 USB-C1 HDMI; 1 headphone/microphone combo",
+          "Storage": "512 GB NVMe SSD",
+          "requirement_8": "Windows 11 Pro",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 2 Staff Professional Desktop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel i7 Processor, 14th Gen or equivalent",
+          "Display": "Minimum 23.8\" diagonal screen Touch Screen",
+          "Memory": "Minimum 32GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Ports": "Minimum 3 USB 3.0; 1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "1 TB NVMe SSD",
+          "requirement_8": "Windows 11 Pro or Mac O/S",
+          "requirement_9": "4 GB Video card",
+          "requirement_10": "Touchscreen optional",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 1 Staff Basic Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel i5 CPU, 14th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal screen",
+          "Integrated Camera": "1080p",
+          "Memory": "Minimum 16GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "USB Type C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 1 USB 3.0;1 USB-C, 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "512 GB NVMe SSD",
+          "requirement_11": "0/S Windows 11 or Mac OS",
+          "Warranty": "3-year minimum"
+        },
+        "Tier 2 Staff Laptop": {
+          "requirement_1": "Enterprise Management Ready",
+          "requirement_2": "Intel i7 CPU, 14th Gen or equivalent",
+          "Display": "Minimum 13\" diagonal screen",
+          "Integrated Camera": "1080p",
+          "Resolution": "1920 X 1080 minimum",
+          "Memory": "Minimum 32GB DDR5 RAM",
+          "Wireless": "802.11AX WiFi-6E and Bluetooth 5.1",
+          "Power Supply": "USB C, 65W",
+          "Battery Life": "Minimum 10 hours",
+          "Ports": "Minimum 2 USB 3.0; 1 HDMI; 1 headphone/microphone combo",
+          "Storage": "1 TB NVMe SSD",
+          "requirement_12": "0/S: Windows 11 or Mac OS",
+          "Warranty": "3-year minimum"
+        },
+        "Display Monitor - Touch": {
+          "requirement_1": "Minimum 24\" diagonal screen",
+          "Resolution": "1920 X 1080",
+          "Port": "USB 3.1 Hub",
+          "Aspect Ratio": "16:9",
+          "Contrast": "3000:1",
+          "Warranty": "3-year minimum"
+        },
+        "Display Monitor - Non-Touch": {
+          "requirement_1": "Minimum 24\" diagonal screen",
+          "Resolution": "1920 X 1080",
+          "Port": "USB 3.1 Hub",
+          "Warranty": "3-year minimum",
+          "requirement_5": ""
+        }
+      },
+      "confidence": 0.85,
+      "present": true,
+      "null_reason": null,
+      "evidence": [
+        {
+          "doc_id": "ja-207652-student-and-staff-computing-devices-fi-ed147247",
+          "file_name": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": 1,
+          "block_id": null,
+          "span": "Tier 1 Small Student Chromebook Laptop; Tier 2 Large Student Chromebook Laptop; Tier 3 Student Windows Laptop; Student Tablet; Tier 1 Staff Windows Basic Desktop; Tier 2 Staff Professional Desktop",
+          "confidence": 0.85,
+          "method": "section",
+          "extraction_pass": "pass1",
+          "section": null
+        }
+      ]
+    }
+  }
+}
