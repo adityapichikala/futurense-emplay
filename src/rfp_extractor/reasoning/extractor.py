@@ -453,3 +453,11 @@ def describe_provider(engine: ExtractionEngine) -> str:
         return "rule-based"
     name = getattr(engine.provider, "name", "unknown")
     return f"rule-based+{name}" if name != "openai" else "hybrid"
+
+
+def collect_usage(engine: ExtractionEngine) -> tuple[int, float]:
+    """Token/cost totals from the provider, or (0, 0.0) when rule-based."""
+    usage = getattr(engine.provider, "usage", None)
+    if not usage:
+        return 0, 0.0
+    return int(usage.get("tokens", 0)), float(usage.get("usd", 0.0))

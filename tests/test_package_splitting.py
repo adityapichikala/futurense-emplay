@@ -92,6 +92,40 @@ def test_flat_directory_of_two_bids_yields_two_packages(tmp_path, bid1_dir, bid2
             assert package.due_date.startswith("2024-06-10")
 
 
+def test_identifier_matches_are_confident_and_reported_as_such():
+    """A shared part number decides placement; nothing is flagged."""
+    clusters = [
+        [_doc("1", "a.pdf", "JA-207652"), _doc("2", "b.pdf", "JA-207652 addendum")],
+        [_doc("3", "c.pdf", "BPM044557"), _doc("4", "d.pdf", "PORFP WD22TB4 units")],
+    ]
+    docs = [d for c in clusters for d in c]
+    # an orphan sharing WD22TB4 with the Maryland cluster
+    docs.append(_doc("5", "specs.pdf", "Dell Latitude 5550 WD22TB4 CC7802"))
+
+    placements: list[dict[str, object]] = []
+    result = Pipeline._split_by_bid_identity(docs, placements)
+    assert len(result) == 2
+    # confident placements are not reported
+    assert [p for p in placements if p["method"] == "identifier"] == []
+
+
+def test_vocabulary_only_placement_is_flagged_for_review():
+    """A document citing no solicitation number must not be placed silently."""
+    clusters = [
+        [_doc("1", "a.pdf", "JA-207652"), _doc("2", "b.pdf", "JA-207652 addendum")],
+        [_doc("3", "c.pdf", "BPM044557"), _doc("4", "d.pdf", "BPM044557 porfp")],
+    ]
+    docs = [d for c in clusters for d in c]
+    docs.append(_doc("5", "appendix.pdf", "the party agrees to the terms herein"))
+
+    placements: list[dict[str, object]] = []
+    Pipeline._split_by_bid_identity(docs, placements)
+    flagged = [p for p in placements if p["method"] == "vocabulary"]
+    assert len(flagged) == 1
+    assert flagged[0]["file_name"] == "appendix.pdf"
+    assert "score" in flagged[0] and "margin" in flagged[0]
+
+
 def test_dominant_key_and_slug_name_the_package_after_the_solicitation():
     """A folder name like 'tmp_flat-1' tells an API caller nothing."""
     docs = [

@@ -5,3 +5,5 @@ __pycache__/
 .mypy_cache/
 .venv/
 .env
+tmp_flat/
+.cache/

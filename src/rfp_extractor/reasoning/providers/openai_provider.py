@@ -38,6 +38,14 @@ _SYSTEM_PROMPT = (
 )
 
 
+#: USD per 1M tokens.  Only used for a cost *estimate* on the run metadata;
+#: update here when pricing changes.
+_PRICE_PER_MTOK: dict[str, tuple[float, float]] = {
+    "gpt-4o-mini": (0.15, 0.60),
+    "gpt-4o": (2.50, 10.00),
+}
+
+
 class OpenAIProvider:
     name = "openai"
 
@@ -45,6 +53,18 @@ class OpenAIProvider:
         self.settings = settings
         self.model = (settings.openai_model if settings else None) or "gpt-4o-mini"
         self._client = client
+        self.tokens_used: int = 0
+        self.estimated_cost_usd: float = 0.0
+        self.calls: int = 0
+
+    @property
+    def usage(self) -> dict[str, float]:
+        """Cumulative usage, for the run metadata."""
+        return {
+            "tokens": self.tokens_used,
+            "usd": round(self.estimated_cost_usd, 6),
+            "calls": self.calls,
+        }
 
     # -- lifecycle ---------------------------------------------------------
 
@@ -124,12 +144,29 @@ class OpenAIProvider:
                     },
                     temperature=0,
                 )
+                self._record_usage(getattr(response, "usage", None))
                 content = response.choices[0].message.content or "{}"
                 return json.loads(content)
             except Exception as exc:  # noqa: BLE001
                 last_error = exc
                 time.sleep(min(8.0, 0.5 * 2**attempt))
         raise RuntimeError(f"openai request failed after retries: {last_error}")
+
+    def _record_usage(self, usage: Any) -> None:
+        """Accumulate token usage and estimated cost.
+
+        The plan lists cost tracking as a differentiator; without this the
+        run metadata would report 0 tokens forever.
+        """
+        self.calls += 1
+        if usage is None:
+            return
+        prompt = int(getattr(usage, "prompt_tokens", 0) or 0)
+        completion = int(getattr(usage, "completion_tokens", 0) or 0)
+        self.tokens_used += prompt + completion
+        rate_in, rate_out = _PRICE_PER_MTOK.get(self.model, (0.0, 0.0))
+        self.estimated_cost_usd += prompt / 1_000_000 * rate_in
+        self.estimated_cost_usd += completion / 1_000_000 * rate_out
 
     @staticmethod
     def _json_schema(spec: FieldSpec) -> dict[str, Any]:

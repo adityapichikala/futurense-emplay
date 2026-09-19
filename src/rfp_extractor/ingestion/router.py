@@ -12,6 +12,7 @@ from pathlib import Path
 
 from ..models.document import Document, FileFormat, detect_format
 from .base import DocumentLoader
+from .cache import DocumentCache
 from .docx_loader import DocxLoader
 from .html_loader import HtmlLoader
 from .pdf_loader import PdfLoader
@@ -22,9 +23,18 @@ log = logging.getLogger(__name__)
 class FileRouter:
     """Route files to the right loader and de-duplicate identical content."""
 
-    def __init__(self, loaders: Sequence[DocumentLoader] | None = None) -> None:
+    def __init__(
+        self,
+        loaders: Sequence[DocumentLoader] | None = None,
+        *,
+        cache: DocumentCache | None = None,
+    ) -> None:
         self.loaders: dict[FileFormat, DocumentLoader] = {}
-        for loader in loaders or (PdfLoader(), HtmlLoader(), DocxLoader()):
+        for loader in loaders or (
+            PdfLoader(cache=cache),
+            HtmlLoader(),
+            DocxLoader(),
+        ):
             for fmt in loader.formats:
                 self.loaders[fmt] = loader
 

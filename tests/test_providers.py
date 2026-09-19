@@ -50,7 +50,8 @@ class _FakeCompletions:
                 types.SimpleNamespace(
                     message=types.SimpleNamespace(content=json.dumps(payload))
                 )
-            ]
+            ],
+            usage=types.SimpleNamespace(prompt_tokens=1000, completion_tokens=200),
         )
 
 
@@ -153,6 +154,38 @@ def test_provider_augments_only_unanswered_fields():
     assert augmented["payment_terms"][0].normalized == "Net 30"
     # every field the rules did not answer was offered to the model
     assert len(client.chat.completions.calls) > 1
+
+
+def test_usage_is_tracked_and_priced():
+    """The plan lists cost tracking; without this the metadata reads 0 forever."""
+    client = _FakeClient(
+        [{"value": "Net 30", "reason": "stated", "evidence": "Net 30", "page": 2,
+          "confidence": 0.8}]
+    )
+    provider = OpenAIProvider(Settings(provider="openai", openai_api_key="sk-test"), client=client)
+    provider.extract_field(_doc(), _spec("payment_terms"))
+
+    usage = provider.usage
+    assert usage["tokens"] == 1200          # 1000 prompt + 200 completion
+    assert usage["calls"] == 1
+    # gpt-4o-mini: $0.15 / $0.60 per 1M tokens
+    expected = 1000 / 1e6 * 0.15 + 200 / 1e6 * 0.60
+    assert usage["usd"] == pytest.approx(expected, rel=1e-6)
+
+
+def test_usage_accumulates_across_calls():
+    client = _FakeClient([])
+    provider = OpenAIProvider(Settings(provider="openai", openai_api_key="sk-test"), client=client)
+    provider.extract_field(_doc(), _spec("payment_terms"))
+    provider.extract_field(_doc(), _spec("term_of_bid"))
+    assert provider.usage["tokens"] == 2400
+    assert provider.usage["calls"] == 2
+
+
+def test_rule_based_run_reports_zero_cost():
+    config = load_extraction_config()
+    engine = extractor_mod.ExtractionEngine(config, Settings())
+    assert extractor_mod.collect_usage(engine) == (0, 0.0)
 
 
 def test_describe_provider_labels_the_run():

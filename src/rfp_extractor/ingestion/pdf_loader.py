@@ -31,6 +31,7 @@ from ..models.document import (
     Page,
 )
 from .base import DocumentLoader, make_doc_id
+from .cache import DocumentCache
 from .normalize import (
     deconcatenate_labels,
     detect_running_lines,
@@ -52,15 +53,31 @@ class PdfLoader(DocumentLoader):
 
     formats = (FileFormat.PDF,)
 
-    def __init__(self, *, extract_tables: bool = True, table_pages: int | None = None) -> None:
+    def __init__(
+        self,
+        *,
+        extract_tables: bool = True,
+        table_pages: int | None = None,
+        cache: DocumentCache | None = None,
+    ) -> None:
         self.extract_tables = extract_tables
         #: cap on pages sent to pdfplumber (tables are slow on long documents)
         self.table_pages = table_pages
+        self.cache = cache
 
     # -- public ------------------------------------------------------------
 
     def load(self, path: str | Path) -> Document:
         path = Path(path)
+        content_hash = _sha256(path)
+        flavour = "tables" if self.extract_tables else "text"
+
+        cached = self.cache.get(content_hash, flavour) if self.cache else None
+        if cached is not None:
+            log.debug("cache hit: %s", path.name)
+            cached.source_path = str(path)
+            return cached
+
         with pymupdf.open(str(path)) as doc:
             pages = [self._load_page(doc, i) for i in range(doc.page_count)]
 
@@ -73,8 +90,7 @@ class PdfLoader(DocumentLoader):
         if self.extract_tables:
             self._attach_tables(path, pages)
 
-        content_hash = _sha256(path)
-        return Document(
+        document = Document(
             doc_id=make_doc_id(path.name, content_hash),
             file_name=path.name,
             source_path=str(path),
@@ -83,6 +99,9 @@ class PdfLoader(DocumentLoader):
             pages=pages,
             meta={"loader": "PdfLoader", "table_extraction": self.extract_tables},
         )
+        if self.cache:
+            self.cache.put(document, flavour)
+        return document
 
     # -- internals ---------------------------------------------------------
 

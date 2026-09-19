@@ -57,6 +57,11 @@ class Settings(BaseSettings):
     # Embedding backend: "tfidf" (zero-dependency, deterministic) or
     # "sentence-transformers" when the optional dependency is installed.
     embedding_backend: Literal["tfidf", "sentence-transformers"] = "tfidf"
+
+    #: Cache parsed documents on disk (content-hash keyed).  pdfplumber
+    #: dominates parse time, so this is what makes repeat runs fast.
+    cache_enabled: bool = True
+    cache_dir: str = ".cache/ingest"
     embedding_model: str = "all-MiniLM-L6-v2"
 
 

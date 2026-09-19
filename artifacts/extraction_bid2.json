@@ -839,9 +839,9 @@
     "total": 20
   },
   "metadata": {
-    "started_at": "2026-09-19T10:33:36.176549",
-    "finished_at": "2026-09-19T10:35:41.457486",
-    "duration_seconds": 125.281,
+    "started_at": "2026-09-19T13:58:35.479620",
+    "finished_at": "2026-09-19T13:59:15.313356",
+    "duration_seconds": 39.834,
     "provider": "rule-based",
     "model": null,
     "config_version": "1.0.0",

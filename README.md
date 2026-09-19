@@ -185,6 +185,11 @@ graph, so an addendum still beats the master RFP.
 Provider failures are isolated: a missing key, missing package, or API error
 contributes no candidates and never aborts a run.
 
+Token usage is accumulated per run and surfaced in `metadata.tokens_used`,
+`metadata.estimated_cost_usd` and `metadata.calls`, priced from a small table in
+`openai_provider.py`. A rule-based run reports zero — correctly, since it makes
+no API calls.
+
 ---
 
 ## Evaluation
@@ -207,6 +212,23 @@ Run it with `python scripts/run_pipeline.py` (or `make test` for the full suite)
 
 ---
 
+## Performance
+
+Parsing dominates: pdfplumber's line analysis is ~99% of the cost of reading a
+62-page RFP (84s, versus 0.8s for PyMuPDF text extraction alone). Two things
+follow from that:
+
+* **Parsed documents are cached** on disk under `.cache/ingest`, keyed by the
+  file's SHA-256 plus a loader version. Unchanged files are not re-parsed, and a
+  change to the parsing logic invalidates entries rather than serving documents
+  produced by old code. Repeat runs are ~2.2× faster with byte-identical
+  results (verified by `scripts/bench_cache.py`).
+* Disable with `RFP_CACHE_ENABLED=false` if you need a guaranteed cold parse.
+
+PyMuPDF's native `find_tables()` was evaluated as a faster replacement (3×
+quicker) but **rejected**: it does not detect the Dallas ISD pricing grid, which
+the schedule extraction depends on.
+
 ## Robustness
 
 `tests/test_robustness.py` covers the failure modes a real corpus produces. The
@@ -223,6 +245,43 @@ reason, and good files in the same batch still extract.
 | Directory of only broken files | no packages, no error |
 | Non-RFP document (e.g. a recipe page) | all fields null, each with a reason |
 | Unicode filename | handled |
+
+### Several bids in one folder
+
+Grouping documents by directory is not enough: drop two solicitations into one
+folder — or upload them in a single API call — and a naive pipeline merges them
+into one package, so the Maryland procurement officer's phone number lands on
+the Dallas bid and accuracy collapses to zero.
+
+Documents are therefore clustered by the solicitation number they cite
+(`JA-…`, `BPM…`, `E…P…`; a single occurrence is enough, and filenames count,
+because issuers name files after the solicitation). Documents citing none —
+vendor spec sheets, legal appendices — are placed with whichever cluster they
+share the most *identifiers* with (`CC7802`, `WD22TB4`), falling back to
+IDF-weighted cosine.
+
+Splitting a folder of all 9 documents recovers both bids correctly, with 18 of
+19 fields identical to the per-directory baseline.
+
+**Known limitation:** the two legal appendices cite no solicitation number, so
+they are placed by vocabulary similarity — and `Contract_Affidavit.pdf` ends up
+with the Dallas bid, giving `additional_documentation_required` one entry it
+should not have. Five scoring variants were tried (raw overlap, max cosine, mean
+cosine, shared-within-cluster, contrastive) and none fixed it: a one-page
+generic legal form simply shares more words with a 62-page RFP than with a
+4-page PORFP.
+
+Rather than hide that, the pipeline **reports it**: any document placed by
+vocabulary alone appends a warning to the run metadata with its score and
+margin —
+
+```
+`Contract_Affidavit.pdf` cites no solicitation number and was placed by
+vocabulary similarity (score 0.0777, margin 0.0095); verify this grouping
+```
+
+A margin that small is the point: the assignment is genuinely uncertain, and
+the run says so instead of implying confidence it does not have.
 
 ## Quality gates
 
